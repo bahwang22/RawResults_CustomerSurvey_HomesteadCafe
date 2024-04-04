@@ -1,0 +1,2001 @@
+ID,Q1,Q2,Q3,Q4
+1,Rarely,More,High prices,Sit-down dining
+2,Monthly,Less,High prices,Fast-food
+3,Rarely,More,Poor service,Fast-food
+4,Weekly,More,High prices,Fast-food
+5,Weekly,More,Quality of food,Fast-food
+6,Rarely,More,High prices,Sit-down dining
+7,Never visited before,Less,High prices,Fast-food
+8,Monthly,Less,Poor service,Sit-down dining
+9,Rarely,Less,High prices,Fast-food
+10,Monthly,Less,High prices,Sit-down dining
+11,Rarely,More,Lack of sit down dining elements,Sit-down dining
+12,Never visited before,More,High prices,Sit-down dining
+13,Never visited before,Less,Lack of sit down dining elements,Fast-food
+14,Never visited before,More,High prices,Fast-food
+15,Weekly,Less,Lack of sit down dining elements,Fast-food
+16,Rarely,Less,High prices,Sit-down dining
+17,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+18,Rarely,Less,High prices,Sit-down dining
+19,Never visited before,More,Lack of sit down dining elements,Sit-down dining
+20,Monthly,Less,High prices,Fast-food
+21,Never visited before,Less,Lack of sit down dining elements,Sit-down dining
+22,Rarely,More,High prices,Fast-food
+23,Monthly,Less,High prices,Fast-food
+24,Rarely,Less,High prices,Sit-down dining
+25,Rarely,More,Quality of food,Fast-food
+26,Monthly,More,Quality of food,Fast-food
+27,Daily,Less,Lack of sit down dining elements,Sit-down dining
+28,Rarely,Less,High prices,Sit-down dining
+29,Rarely,Less,Poor service,Fast-food
+30,Never visited before,More,Lack of sit down dining elements,Fast-food
+31,Rarely,Less,High prices,Sit-down dining
+32,Monthly,Less,Poor service,Fast-food
+33,Never visited before,Less,Poor service,Fast-food
+34,Weekly,Less,High prices,Sit-down dining
+35,Rarely,Less,High prices,Sit-down dining
+36,Daily,Less,Lack of sit down dining elements,Fast-food
+37,Rarely,Less,Lack of sit down dining elements,Fast-food
+38,Never visited before,Less,High prices,Fast-food
+39,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+40,Daily,Less,High prices,Fast-food
+41,Weekly,Less,Lack of sit down dining elements,Fast-food
+42,Never visited before,Less,Lack of sit down dining elements,Fast-food
+43,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+44,Never visited before,More,High prices,Fast-food
+45,Rarely,Less,Lack of sit down dining elements,Fast-food
+46,Never visited before,Less,High prices,Sit-down dining
+47,Daily,Less,High prices,Fast-food
+48,Never visited before,Less,Lack of sit down dining elements,Sit-down dining
+49,Monthly,Less,Poor service,Sit-down dining
+50,Rarely,Less,Poor service,Fast-food
+51,Weekly,Less,Lack of sit down dining elements,Fast-food
+52,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+53,Rarely,Less,High prices,Sit-down dining
+54,Rarely,Less,Quality of food,Sit-down dining
+55,Rarely,Less,Quality of food,Fast-food
+56,Never visited before,Less,High prices,Fast-food
+57,Monthly,More,High prices,Fast-food
+58,Rarely,Less,Lack of sit down dining elements,Fast-food
+59,Monthly,Less,Lack of sit down dining elements,Fast-food
+60,Monthly,Less,High prices,Sit-down dining
+61,Monthly,Less,Quality of food,Fast-food
+62,Daily,Less,High prices,Sit-down dining
+63,Weekly,Less,High prices,Sit-down dining
+64,Weekly,Less,Poor service,Sit-down dining
+65,Weekly,Less,Lack of sit down dining elements,Sit-down dining
+66,Monthly,Less,Lack of sit down dining elements,Fast-food
+67,Monthly,More,Poor service,Fast-food
+68,Rarely,Less,High prices,Fast-food
+69,Never visited before,More,Poor service,Sit-down dining
+70,Daily,Less,Quality of food,Fast-food
+71,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+72,Rarely,Less,Lack of sit down dining elements,Fast-food
+73,Never visited before,Less,Lack of sit down dining elements,Sit-down dining
+74,Monthly,Less,Quality of food,Sit-down dining
+75,Daily,Less,High prices,Sit-down dining
+76,Never visited before,Less,Quality of food,Fast-food
+77,Rarely,Less,High prices,Fast-food
+78,Rarely,Less,High prices,Fast-food
+79,Never visited before,Less,Lack of sit down dining elements,Fast-food
+80,Monthly,More,Poor service,Fast-food
+81,Daily,Less,High prices,Sit-down dining
+82,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+83,Monthly,Less,High prices,Fast-food
+84,Daily,More,Quality of food,Sit-down dining
+85,Never visited before,Less,High prices,Fast-food
+86,Monthly,Less,Poor service,Sit-down dining
+87,Daily,Less,Lack of sit down dining elements,Sit-down dining
+88,Rarely,More,Lack of sit down dining elements,Fast-food
+89,Rarely,More,High prices,Fast-food
+90,Weekly,Less,High prices,Fast-food
+91,Never visited before,Less,Poor service,Fast-food
+92,Monthly,More,Quality of food,Sit-down dining
+93,Weekly,Less,Quality of food,Fast-food
+94,Daily,Less,Poor service,Sit-down dining
+95,Daily,Less,High prices,Sit-down dining
+96,Weekly,Less,Lack of sit down dining elements,Sit-down dining
+97,Rarely,Less,Poor service,Sit-down dining
+98,Rarely,Less,High prices,Sit-down dining
+99,Monthly,More,High prices,Sit-down dining
+100,Weekly,Less,Quality of food,Sit-down dining
+101,Monthly,Less,Quality of food,Sit-down dining
+102,Weekly,Less,Lack of sit down dining elements,Fast-food
+103,Weekly,Less,Poor service,Sit-down dining
+104,Never visited before,Less,High prices,Sit-down dining
+105,Rarely,Less,Poor service,Sit-down dining
+106,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+107,Monthly,Less,High prices,Sit-down dining
+108,Monthly,Less,High prices,Sit-down dining
+109,Monthly,More,Lack of sit down dining elements,Sit-down dining
+110,Monthly,Less,Poor service,Fast-food
+111,Rarely,Less,Poor service,Sit-down dining
+112,Monthly,Less,High prices,Fast-food
+113,Never visited before,Less,Quality of food,Sit-down dining
+114,Monthly,Less,High prices,Sit-down dining
+115,Rarely,Less,Poor service,Sit-down dining
+116,Weekly,More,Lack of sit down dining elements,Sit-down dining
+117,Rarely,Less,Quality of food,Fast-food
+118,Daily,Less,Poor service,Fast-food
+119,Monthly,Less,Lack of sit down dining elements,Sit-down dining
+120,Daily,Less,High prices,Sit-down dining
+121,Monthly,More,Poor service,Fast-food
+122,Weekly,Less,Lack of sit down dining elements,Sit-down dining
+123,Never visited before,More,Lack of sit down dining elements,Sit-down dining
+124,Monthly,Less,Lack of sit down dining elements,Sit-down dining
+125,Never visited before,Less,High prices,Fast-food
+126,Daily,More,High prices,Fast-food
+127,Daily,Less,High prices,Sit-down dining
+128,Rarely,Less,High prices,Sit-down dining
+129,Monthly,Less,High prices,Fast-food
+130,Never visited before,Less,Poor service,Sit-down dining
+131,Daily,Less,Lack of sit down dining elements,Fast-food
+132,Rarely,Less,High prices,Sit-down dining
+133,Never visited before,Less,Poor service,Sit-down dining
+134,Daily,More,Lack of sit down dining elements,Sit-down dining
+135,Never visited before,Less,Quality of food,Sit-down dining
+136,Weekly,Less,High prices,Sit-down dining
+137,Never visited before,Less,Lack of sit down dining elements,Fast-food
+138,Monthly,Less,Poor service,Sit-down dining
+139,Monthly,Less,Lack of sit down dining elements,Sit-down dining
+140,Monthly,Less,Lack of sit down dining elements,Sit-down dining
+141,Daily,Less,Lack of sit down dining elements,Sit-down dining
+142,Daily,Less,Lack of sit down dining elements,Sit-down dining
+143,Rarely,Less,Lack of sit down dining elements,Fast-food
+144,Weekly,More,Poor service,Fast-food
+145,Rarely,Less,Poor service,Fast-food
+146,Rarely,More,High prices,Sit-down dining
+147,Daily,Less,High prices,Fast-food
+148,Daily,Less,Lack of sit down dining elements,Fast-food
+149,Rarely,Less,Poor service,Sit-down dining
+150,Weekly,More,High prices,Sit-down dining
+151,Never visited before,Less,Quality of food,Fast-food
+152,Monthly,Less,Lack of sit down dining elements,Sit-down dining
+153,Never visited before,Less,High prices,Sit-down dining
+154,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+155,Never visited before,Less,Quality of food,Sit-down dining
+156,Never visited before,Less,High prices,Fast-food
+157,Daily,More,High prices,Sit-down dining
+158,Rarely,Less,Poor service,Fast-food
+159,Monthly,More,Lack of sit down dining elements,Fast-food
+160,Rarely,Less,Quality of food,Sit-down dining
+161,Rarely,More,High prices,Sit-down dining
+162,Monthly,Less,Poor service,Fast-food
+163,Never visited before,Less,Poor service,Fast-food
+164,Never visited before,More,Lack of sit down dining elements,Sit-down dining
+165,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+166,Never visited before,Less,High prices,Sit-down dining
+167,Never visited before,Less,Lack of sit down dining elements,Fast-food
+168,Monthly,Less,Poor service,Fast-food
+169,Never visited before,Less,High prices,Sit-down dining
+170,Daily,Less,High prices,Fast-food
+171,Rarely,Less,Lack of sit down dining elements,Fast-food
+172,Monthly,More,Quality of food,Sit-down dining
+173,Weekly,Less,Poor service,Sit-down dining
+174,Never visited before,Less,High prices,Sit-down dining
+175,Rarely,More,High prices,Sit-down dining
+176,Daily,Less,High prices,Sit-down dining
+177,Never visited before,Less,Quality of food,Fast-food
+178,Never visited before,Less,Quality of food,Sit-down dining
+179,Daily,Less,High prices,Fast-food
+180,Never visited before,More,Lack of sit down dining elements,Fast-food
+181,Daily,Less,Quality of food,Sit-down dining
+182,Rarely,More,Lack of sit down dining elements,Sit-down dining
+183,Monthly,Less,Lack of sit down dining elements,Fast-food
+184,Daily,Less,Lack of sit down dining elements,Sit-down dining
+185,Never visited before,Less,Lack of sit down dining elements,Sit-down dining
+186,Monthly,Less,Lack of sit down dining elements,Fast-food
+187,Monthly,More,Lack of sit down dining elements,Fast-food
+188,Daily,Less,Lack of sit down dining elements,Sit-down dining
+189,Monthly,Less,High prices,Sit-down dining
+190,Weekly,Less,Quality of food,Fast-food
+191,Monthly,Less,Quality of food,Sit-down dining
+192,Monthly,Less,Lack of sit down dining elements,Fast-food
+193,Monthly,More,Quality of food,Fast-food
+194,Never visited before,Less,High prices,Sit-down dining
+195,Monthly,Less,Lack of sit down dining elements,Sit-down dining
+196,Monthly,More,Lack of sit down dining elements,Fast-food
+197,Weekly,Less,Quality of food,Sit-down dining
+198,Weekly,Less,High prices,Fast-food
+199,Never visited before,Less,Lack of sit down dining elements,Fast-food
+200,Weekly,Less,Quality of food,Fast-food
+201,Daily,Less,Lack of sit down dining elements,Fast-food
+202,Rarely,More,Lack of sit down dining elements,Sit-down dining
+203,Never visited before,Less,High prices,Sit-down dining
+204,Monthly,Less,Quality of food,Sit-down dining
+205,Weekly,Less,Quality of food,Fast-food
+206,Monthly,Less,Quality of food,Fast-food
+207,Monthly,Less,High prices,Fast-food
+208,Rarely,Less,Poor service,Fast-food
+209,Never visited before,Less,Quality of food,Fast-food
+210,Monthly,Less,Poor service,Fast-food
+211,Monthly,Less,Lack of sit down dining elements,Fast-food
+212,Rarely,Less,High prices,Sit-down dining
+213,Daily,Less,High prices,Sit-down dining
+214,Daily,Less,High prices,Sit-down dining
+215,Monthly,More,Lack of sit down dining elements,Fast-food
+216,Weekly,Less,Lack of sit down dining elements,Sit-down dining
+217,Monthly,More,High prices,Fast-food
+218,Weekly,Less,High prices,Sit-down dining
+219,Daily,Less,High prices,Fast-food
+220,Monthly,Less,Poor service,Fast-food
+221,Daily,Less,High prices,Sit-down dining
+222,Never visited before,Less,Lack of sit down dining elements,Fast-food
+223,Monthly,More,Lack of sit down dining elements,Fast-food
+224,Weekly,Less,Lack of sit down dining elements,Fast-food
+225,Rarely,Less,High prices,Sit-down dining
+226,Weekly,Less,Lack of sit down dining elements,Fast-food
+227,Monthly,Less,Poor service,Fast-food
+228,Rarely,More,High prices,Fast-food
+229,Never visited before,Less,Quality of food,Fast-food
+230,Monthly,More,Lack of sit down dining elements,Fast-food
+231,Never visited before,Less,Lack of sit down dining elements,Fast-food
+232,Monthly,More,Quality of food,Fast-food
+233,Daily,Less,High prices,Fast-food
+234,Rarely,More,Poor service,Sit-down dining
+235,Monthly,More,High prices,Sit-down dining
+236,Never visited before,Less,Poor service,Fast-food
+237,Monthly,Less,Lack of sit down dining elements,Sit-down dining
+238,Weekly,More,Quality of food,Fast-food
+239,Monthly,Less,Lack of sit down dining elements,Sit-down dining
+240,Monthly,More,Lack of sit down dining elements,Fast-food
+241,Weekly,More,Quality of food,Sit-down dining
+242,Monthly,More,Lack of sit down dining elements,Sit-down dining
+243,Rarely,Less,Lack of sit down dining elements,Fast-food
+244,Monthly,Less,Lack of sit down dining elements,Fast-food
+245,Never visited before,More,Poor service,Sit-down dining
+246,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+247,Daily,Less,Poor service,Sit-down dining
+248,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+249,Daily,Less,Quality of food,Sit-down dining
+250,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+251,Never visited before,More,Quality of food,Fast-food
+252,Monthly,More,Quality of food,Sit-down dining
+253,Rarely,More,Poor service,Sit-down dining
+254,Rarely,Less,Poor service,Fast-food
+255,Never visited before,Less,Poor service,Fast-food
+256,Monthly,More,Lack of sit down dining elements,Fast-food
+257,Rarely,Less,Poor service,Sit-down dining
+258,Never visited before,Less,High prices,Sit-down dining
+259,Daily,Less,High prices,Fast-food
+260,Weekly,Less,Quality of food,Sit-down dining
+261,Rarely,Less,High prices,Sit-down dining
+262,Daily,More,Lack of sit down dining elements,Sit-down dining
+263,Monthly,Less,High prices,Sit-down dining
+264,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+265,Daily,Less,High prices,Fast-food
+266,Monthly,Less,High prices,Fast-food
+267,Weekly,Less,Quality of food,Sit-down dining
+268,Monthly,Less,High prices,Fast-food
+269,Monthly,Less,Lack of sit down dining elements,Sit-down dining
+270,Rarely,Less,Poor service,Sit-down dining
+271,Weekly,Less,High prices,Sit-down dining
+272,Weekly,Less,Lack of sit down dining elements,Sit-down dining
+273,Monthly,More,Poor service,Sit-down dining
+274,Monthly,Less,Lack of sit down dining elements,Sit-down dining
+275,Weekly,Less,Lack of sit down dining elements,Fast-food
+276,Rarely,Less,High prices,Sit-down dining
+277,Monthly,Less,Lack of sit down dining elements,Fast-food
+278,Monthly,More,Lack of sit down dining elements,Fast-food
+279,Monthly,Less,Quality of food,Sit-down dining
+280,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+281,Never visited before,Less,Poor service,Fast-food
+282,Rarely,More,Lack of sit down dining elements,Fast-food
+283,Daily,Less,Quality of food,Fast-food
+284,Never visited before,Less,Lack of sit down dining elements,Fast-food
+285,Rarely,Less,Poor service,Sit-down dining
+286,Monthly,Less,Lack of sit down dining elements,Fast-food
+287,Never visited before,Less,High prices,Sit-down dining
+288,Rarely,Less,Quality of food,Sit-down dining
+289,Rarely,Less,Quality of food,Fast-food
+290,Rarely,Less,Poor service,Sit-down dining
+291,Daily,More,Lack of sit down dining elements,Fast-food
+292,Monthly,Less,Lack of sit down dining elements,Fast-food
+293,Weekly,Less,High prices,Fast-food
+294,Monthly,More,Quality of food,Sit-down dining
+295,Monthly,Less,Lack of sit down dining elements,Fast-food
+296,Monthly,Less,Poor service,Sit-down dining
+297,Rarely,More,High prices,Fast-food
+298,Rarely,Less,Quality of food,Fast-food
+299,Daily,Less,Poor service,Sit-down dining
+300,Monthly,Less,Poor service,Fast-food
+301,Daily,Less,Poor service,Sit-down dining
+302,Monthly,More,High prices,Fast-food
+303,Weekly,Less,Poor service,Sit-down dining
+304,Rarely,Less,Lack of sit down dining elements,Fast-food
+305,Rarely,Less,Quality of food,Sit-down dining
+306,Never visited before,Less,Quality of food,Fast-food
+307,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+308,Rarely,Less,Poor service,Sit-down dining
+309,Daily,Less,Poor service,Fast-food
+310,Daily,Less,Poor service,Fast-food
+311,Never visited before,Less,High prices,Fast-food
+312,Never visited before,Less,Quality of food,Fast-food
+313,Monthly,Less,Lack of sit down dining elements,Fast-food
+314,Rarely,Less,High prices,Fast-food
+315,Weekly,Less,Lack of sit down dining elements,Fast-food
+316,Weekly,Less,High prices,Sit-down dining
+317,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+318,Rarely,Less,Quality of food,Fast-food
+319,Weekly,Less,Quality of food,Sit-down dining
+320,Monthly,Less,High prices,Fast-food
+321,Rarely,Less,Lack of sit down dining elements,Fast-food
+322,Rarely,Less,Poor service,Fast-food
+323,Rarely,More,High prices,Fast-food
+324,Rarely,Less,High prices,Sit-down dining
+325,Rarely,Less,High prices,Fast-food
+326,Rarely,Less,Lack of sit down dining elements,Fast-food
+327,Never visited before,More,Quality of food,Sit-down dining
+328,Monthly,Less,Lack of sit down dining elements,Sit-down dining
+329,Rarely,Less,High prices,Fast-food
+330,Monthly,Less,Lack of sit down dining elements,Sit-down dining
+331,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+332,Monthly,Less,Lack of sit down dining elements,Sit-down dining
+333,Monthly,Less,Lack of sit down dining elements,Fast-food
+334,Never visited before,Less,High prices,Sit-down dining
+335,Monthly,More,Poor service,Sit-down dining
+336,Rarely,Less,Poor service,Fast-food
+337,Rarely,Less,Lack of sit down dining elements,Fast-food
+338,Weekly,Less,High prices,Sit-down dining
+339,Rarely,Less,High prices,Fast-food
+340,Never visited before,Less,Quality of food,Sit-down dining
+341,Daily,Less,Lack of sit down dining elements,Sit-down dining
+342,Rarely,Less,Quality of food,Fast-food
+343,Weekly,More,Lack of sit down dining elements,Fast-food
+344,Weekly,Less,Poor service,Fast-food
+345,Never visited before,Less,High prices,Sit-down dining
+346,Rarely,More,Lack of sit down dining elements,Sit-down dining
+347,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+348,Daily,More,Quality of food,Sit-down dining
+349,Daily,Less,High prices,Fast-food
+350,Never visited before,More,Lack of sit down dining elements,Sit-down dining
+351,Daily,Less,Quality of food,Sit-down dining
+352,Never visited before,Less,Lack of sit down dining elements,Fast-food
+353,Never visited before,More,Quality of food,Sit-down dining
+354,Rarely,Less,Poor service,Sit-down dining
+355,Weekly,Less,Quality of food,Sit-down dining
+356,Monthly,Less,Lack of sit down dining elements,Fast-food
+357,Never visited before,Less,High prices,Sit-down dining
+358,Rarely,Less,High prices,Fast-food
+359,Monthly,Less,Lack of sit down dining elements,Fast-food
+360,Monthly,Less,Lack of sit down dining elements,Fast-food
+361,Rarely,Less,High prices,Fast-food
+362,Never visited before,Less,High prices,Fast-food
+363,Weekly,Less,High prices,Sit-down dining
+364,Monthly,Less,Lack of sit down dining elements,Sit-down dining
+365,Monthly,Less,High prices,Fast-food
+366,Rarely,Less,High prices,Fast-food
+367,Daily,Less,High prices,Fast-food
+368,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+369,Weekly,Less,Poor service,Sit-down dining
+370,Monthly,Less,High prices,Sit-down dining
+371,Monthly,Less,High prices,Fast-food
+372,Weekly,Less,Quality of food,Fast-food
+373,Daily,Less,Poor service,Sit-down dining
+374,Monthly,Less,High prices,Fast-food
+375,Rarely,Less,High prices,Fast-food
+376,Weekly,Less,Lack of sit down dining elements,Sit-down dining
+377,Weekly,Less,High prices,Fast-food
+378,Daily,Less,Lack of sit down dining elements,Sit-down dining
+379,Monthly,More,Quality of food,Sit-down dining
+380,Never visited before,Less,High prices,Fast-food
+381,Monthly,More,Quality of food,Sit-down dining
+382,Rarely,More,High prices,Sit-down dining
+383,Never visited before,More,Lack of sit down dining elements,Fast-food
+384,Rarely,Less,Lack of sit down dining elements,Fast-food
+385,Monthly,Less,Lack of sit down dining elements,Fast-food
+386,Rarely,Less,Poor service,Fast-food
+387,Monthly,More,Poor service,Sit-down dining
+388,Monthly,More,Lack of sit down dining elements,Fast-food
+389,Rarely,Less,Lack of sit down dining elements,Fast-food
+390,Rarely,Less,Lack of sit down dining elements,Fast-food
+391,Weekly,Less,Lack of sit down dining elements,Fast-food
+392,Monthly,More,Poor service,Sit-down dining
+393,Rarely,Less,High prices,Sit-down dining
+394,Rarely,More,Quality of food,Sit-down dining
+395,Daily,More,High prices,Fast-food
+396,Rarely,Less,High prices,Fast-food
+397,Never visited before,Less,High prices,Sit-down dining
+398,Daily,Less,Poor service,Fast-food
+399,Rarely,Less,Poor service,Fast-food
+400,Monthly,More,Lack of sit down dining elements,Sit-down dining
+401,Rarely,More,High prices,Sit-down dining
+402,Weekly,Less,High prices,Sit-down dining
+403,Daily,More,Poor service,Sit-down dining
+404,Never visited before,Less,High prices,Sit-down dining
+405,Monthly,Less,Lack of sit down dining elements,Sit-down dining
+406,Rarely,Less,High prices,Sit-down dining
+407,Rarely,More,Lack of sit down dining elements,Fast-food
+408,Monthly,Less,High prices,Fast-food
+409,Monthly,Less,Poor service,Fast-food
+410,Monthly,Less,Quality of food,Fast-food
+411,Never visited before,Less,Poor service,Fast-food
+412,Never visited before,More,Lack of sit down dining elements,Fast-food
+413,Rarely,More,High prices,Fast-food
+414,Rarely,Less,High prices,Fast-food
+415,Weekly,Less,Lack of sit down dining elements,Sit-down dining
+416,Never visited before,Less,Quality of food,Sit-down dining
+417,Daily,More,Lack of sit down dining elements,Sit-down dining
+418,Daily,More,Quality of food,Sit-down dining
+419,Monthly,More,High prices,Sit-down dining
+420,Never visited before,Less,High prices,Fast-food
+421,Never visited before,Less,Lack of sit down dining elements,Fast-food
+422,Never visited before,More,High prices,Sit-down dining
+423,Never visited before,Less,Quality of food,Fast-food
+424,Weekly,Less,High prices,Sit-down dining
+425,Monthly,Less,Poor service,Sit-down dining
+426,Daily,More,High prices,Sit-down dining
+427,Monthly,Less,Quality of food,Sit-down dining
+428,Rarely,Less,Lack of sit down dining elements,Fast-food
+429,Never visited before,More,Lack of sit down dining elements,Fast-food
+430,Rarely,Less,Poor service,Fast-food
+431,Daily,More,Quality of food,Fast-food
+432,Monthly,More,High prices,Sit-down dining
+433,Monthly,Less,Quality of food,Fast-food
+434,Weekly,Less,High prices,Sit-down dining
+435,Weekly,Less,Lack of sit down dining elements,Fast-food
+436,Daily,Less,Poor service,Fast-food
+437,Daily,Less,High prices,Fast-food
+438,Never visited before,More,Quality of food,Fast-food
+439,Daily,More,Lack of sit down dining elements,Fast-food
+440,Monthly,More,Lack of sit down dining elements,Sit-down dining
+441,Rarely,Less,High prices,Sit-down dining
+442,Rarely,Less,Poor service,Fast-food
+443,Rarely,More,Lack of sit down dining elements,Fast-food
+444,Weekly,Less,High prices,Fast-food
+445,Never visited before,More,High prices,Sit-down dining
+446,Monthly,More,Poor service,Fast-food
+447,Monthly,Less,Lack of sit down dining elements,Sit-down dining
+448,Daily,Less,High prices,Fast-food
+449,Weekly,Less,Lack of sit down dining elements,Fast-food
+450,Monthly,More,High prices,Sit-down dining
+451,Never visited before,Less,Poor service,Fast-food
+452,Monthly,Less,High prices,Sit-down dining
+453,Daily,Less,Lack of sit down dining elements,Fast-food
+454,Never visited before,Less,Quality of food,Fast-food
+455,Weekly,Less,High prices,Sit-down dining
+456,Rarely,More,High prices,Sit-down dining
+457,Monthly,Less,High prices,Fast-food
+458,Monthly,Less,Poor service,Fast-food
+459,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+460,Weekly,Less,Lack of sit down dining elements,Fast-food
+461,Rarely,Less,High prices,Fast-food
+462,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+463,Monthly,Less,Lack of sit down dining elements,Fast-food
+464,Never visited before,Less,Lack of sit down dining elements,Sit-down dining
+465,Daily,Less,Quality of food,Fast-food
+466,Daily,Less,Poor service,Sit-down dining
+467,Monthly,Less,Poor service,Sit-down dining
+468,Rarely,Less,High prices,Fast-food
+469,Never visited before,Less,Lack of sit down dining elements,Fast-food
+470,Rarely,Less,Poor service,Sit-down dining
+471,Monthly,More,Lack of sit down dining elements,Sit-down dining
+472,Weekly,Less,Lack of sit down dining elements,Sit-down dining
+473,Monthly,More,High prices,Sit-down dining
+474,Weekly,Less,Lack of sit down dining elements,Sit-down dining
+475,Rarely,Less,Quality of food,Sit-down dining
+476,Weekly,Less,High prices,Fast-food
+477,Never visited before,Less,Poor service,Fast-food
+478,Rarely,Less,High prices,Fast-food
+479,Monthly,Less,Lack of sit down dining elements,Fast-food
+480,Weekly,More,Quality of food,Fast-food
+481,Daily,Less,Lack of sit down dining elements,Fast-food
+482,Never visited before,More,High prices,Fast-food
+483,Weekly,Less,Poor service,Sit-down dining
+484,Never visited before,More,Lack of sit down dining elements,Sit-down dining
+485,Weekly,Less,High prices,Sit-down dining
+486,Monthly,Less,High prices,Sit-down dining
+487,Daily,More,Quality of food,Fast-food
+488,Monthly,Less,High prices,Fast-food
+489,Monthly,Less,High prices,Sit-down dining
+490,Monthly,Less,Poor service,Fast-food
+491,Monthly,More,High prices,Sit-down dining
+492,Monthly,Less,Poor service,Sit-down dining
+493,Daily,Less,Lack of sit down dining elements,Fast-food
+494,Monthly,More,Lack of sit down dining elements,Fast-food
+495,Rarely,Less,Quality of food,Sit-down dining
+496,Monthly,Less,Poor service,Sit-down dining
+497,Weekly,More,High prices,Sit-down dining
+498,Rarely,Less,High prices,Sit-down dining
+499,Monthly,Less,High prices,Sit-down dining
+500,Weekly,Less,Quality of food,Fast-food
+501,Rarely,Less,Lack of sit down dining elements,Fast-food
+502,Weekly,More,High prices,Sit-down dining
+503,Never visited before,Less,Lack of sit down dining elements,Fast-food
+504,Monthly,More,High prices,Fast-food
+505,Daily,More,Poor service,Sit-down dining
+506,Rarely,Less,Lack of sit down dining elements,Fast-food
+507,Daily,Less,Lack of sit down dining elements,Fast-food
+508,Monthly,Less,Quality of food,Sit-down dining
+509,Rarely,More,Lack of sit down dining elements,Fast-food
+510,Weekly,More,High prices,Fast-food
+511,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+512,Never visited before,More,High prices,Fast-food
+513,Rarely,Less,High prices,Fast-food
+514,Rarely,Less,Lack of sit down dining elements,Fast-food
+515,Monthly,Less,High prices,Fast-food
+516,Rarely,Less,High prices,Sit-down dining
+517,Rarely,Less,Poor service,Sit-down dining
+518,Monthly,Less,High prices,Sit-down dining
+519,Never visited before,Less,Poor service,Fast-food
+520,Monthly,Less,Lack of sit down dining elements,Fast-food
+521,Daily,Less,Quality of food,Fast-food
+522,Weekly,Less,Quality of food,Sit-down dining
+523,Monthly,Less,High prices,Fast-food
+524,Monthly,Less,Lack of sit down dining elements,Sit-down dining
+525,Monthly,Less,Poor service,Fast-food
+526,Weekly,Less,Quality of food,Sit-down dining
+527,Monthly,Less,Quality of food,Sit-down dining
+528,Rarely,Less,High prices,Fast-food
+529,Rarely,Less,High prices,Fast-food
+530,Weekly,More,Lack of sit down dining elements,Fast-food
+531,Rarely,Less,Poor service,Sit-down dining
+532,Monthly,Less,High prices,Fast-food
+533,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+534,Weekly,Less,Lack of sit down dining elements,Fast-food
+535,Weekly,Less,High prices,Fast-food
+536,Monthly,Less,Quality of food,Sit-down dining
+537,Weekly,Less,Lack of sit down dining elements,Sit-down dining
+538,Monthly,Less,High prices,Fast-food
+539,Weekly,Less,Poor service,Sit-down dining
+540,Monthly,Less,Quality of food,Fast-food
+541,Daily,Less,High prices,Fast-food
+542,Rarely,Less,High prices,Fast-food
+543,Daily,Less,Poor service,Sit-down dining
+544,Monthly,Less,Lack of sit down dining elements,Sit-down dining
+545,Rarely,Less,Lack of sit down dining elements,Fast-food
+546,Rarely,Less,Poor service,Fast-food
+547,Daily,More,Poor service,Fast-food
+548,Weekly,Less,High prices,Fast-food
+549,Never visited before,Less,Poor service,Fast-food
+550,Daily,More,Lack of sit down dining elements,Fast-food
+551,Rarely,Less,High prices,Sit-down dining
+552,Monthly,Less,High prices,Sit-down dining
+553,Rarely,Less,Quality of food,Sit-down dining
+554,Never visited before,Less,Lack of sit down dining elements,Sit-down dining
+555,Never visited before,Less,Quality of food,Sit-down dining
+556,Monthly,Less,Poor service,Sit-down dining
+557,Weekly,Less,High prices,Sit-down dining
+558,Never visited before,More,Poor service,Fast-food
+559,Rarely,More,Lack of sit down dining elements,Sit-down dining
+560,Never visited before,Less,Quality of food,Sit-down dining
+561,Monthly,Less,High prices,Sit-down dining
+562,Weekly,Less,Quality of food,Sit-down dining
+563,Monthly,Less,High prices,Fast-food
+564,Never visited before,Less,Lack of sit down dining elements,Sit-down dining
+565,Daily,More,High prices,Fast-food
+566,Never visited before,Less,Poor service,Fast-food
+567,Monthly,More,Lack of sit down dining elements,Fast-food
+568,Monthly,Less,High prices,Sit-down dining
+569,Rarely,More,High prices,Sit-down dining
+570,Monthly,More,High prices,Fast-food
+571,Weekly,Less,High prices,Sit-down dining
+572,Weekly,More,Lack of sit down dining elements,Fast-food
+573,Never visited before,Less,High prices,Fast-food
+574,Never visited before,Less,Quality of food,Fast-food
+575,Monthly,More,High prices,Fast-food
+576,Monthly,Less,Quality of food,Fast-food
+577,Daily,Less,Lack of sit down dining elements,Fast-food
+578,Daily,More,Poor service,Sit-down dining
+579,Weekly,Less,Lack of sit down dining elements,Sit-down dining
+580,Rarely,More,Lack of sit down dining elements,Sit-down dining
+581,Weekly,Less,High prices,Sit-down dining
+582,Never visited before,Less,Quality of food,Fast-food
+583,Daily,Less,Quality of food,Fast-food
+584,Never visited before,Less,Quality of food,Fast-food
+585,Rarely,Less,Poor service,Sit-down dining
+586,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+587,Monthly,More,Lack of sit down dining elements,Sit-down dining
+588,Monthly,Less,High prices,Sit-down dining
+589,Rarely,Less,High prices,Sit-down dining
+590,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+591,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+592,Monthly,Less,Lack of sit down dining elements,Fast-food
+593,Never visited before,More,High prices,Fast-food
+594,Monthly,Less,High prices,Fast-food
+595,Monthly,More,Quality of food,Fast-food
+596,Daily,More,Lack of sit down dining elements,Fast-food
+597,Daily,Less,Lack of sit down dining elements,Sit-down dining
+598,Weekly,Less,Poor service,Sit-down dining
+599,Daily,Less,High prices,Sit-down dining
+600,Daily,Less,Poor service,Fast-food
+601,Monthly,Less,Quality of food,Fast-food
+602,Monthly,More,Quality of food,Fast-food
+603,Rarely,Less,Lack of sit down dining elements,Fast-food
+604,Weekly,More,Lack of sit down dining elements,Sit-down dining
+605,Monthly,More,High prices,Fast-food
+606,Weekly,Less,Poor service,Sit-down dining
+607,Rarely,More,Poor service,Sit-down dining
+608,Monthly,Less,Poor service,Fast-food
+609,Monthly,Less,Poor service,Sit-down dining
+610,Daily,More,High prices,Fast-food
+611,Daily,Less,Lack of sit down dining elements,Fast-food
+612,Rarely,Less,Lack of sit down dining elements,Fast-food
+613,Monthly,More,Poor service,Sit-down dining
+614,Rarely,Less,High prices,Fast-food
+615,Daily,More,Lack of sit down dining elements,Sit-down dining
+616,Monthly,Less,Lack of sit down dining elements,Sit-down dining
+617,Daily,Less,Lack of sit down dining elements,Fast-food
+618,Monthly,Less,High prices,Sit-down dining
+619,Never visited before,Less,Quality of food,Sit-down dining
+620,Monthly,Less,High prices,Fast-food
+621,Monthly,Less,High prices,Fast-food
+622,Monthly,More,Poor service,Fast-food
+623,Never visited before,Less,Poor service,Fast-food
+624,Daily,Less,Lack of sit down dining elements,Sit-down dining
+625,Weekly,Less,Quality of food,Fast-food
+626,Rarely,Less,High prices,Sit-down dining
+627,Weekly,Less,Poor service,Fast-food
+628,Rarely,More,High prices,Fast-food
+629,Rarely,More,Lack of sit down dining elements,Sit-down dining
+630,Rarely,Less,Quality of food,Sit-down dining
+631,Monthly,More,Quality of food,Fast-food
+632,Never visited before,Less,Poor service,Sit-down dining
+633,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+634,Monthly,Less,High prices,Sit-down dining
+635,Rarely,More,Quality of food,Fast-food
+636,Rarely,Less,High prices,Sit-down dining
+637,Never visited before,More,Lack of sit down dining elements,Sit-down dining
+638,Rarely,More,Quality of food,Fast-food
+639,Rarely,Less,Lack of sit down dining elements,Fast-food
+640,Weekly,More,Lack of sit down dining elements,Fast-food
+641,Monthly,Less,Poor service,Fast-food
+642,Rarely,More,High prices,Sit-down dining
+643,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+644,Daily,Less,Poor service,Sit-down dining
+645,Monthly,Less,High prices,Sit-down dining
+646,Never visited before,Less,High prices,Sit-down dining
+647,Daily,Less,High prices,Fast-food
+648,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+649,Daily,Less,Quality of food,Sit-down dining
+650,Daily,Less,Lack of sit down dining elements,Sit-down dining
+651,Monthly,More,High prices,Fast-food
+652,Weekly,Less,Lack of sit down dining elements,Sit-down dining
+653,Weekly,Less,High prices,Sit-down dining
+654,Daily,Less,Quality of food,Sit-down dining
+655,Monthly,Less,Poor service,Sit-down dining
+656,Never visited before,Less,High prices,Sit-down dining
+657,Daily,More,High prices,Fast-food
+658,Monthly,Less,Lack of sit down dining elements,Fast-food
+659,Never visited before,Less,High prices,Fast-food
+660,Monthly,More,Lack of sit down dining elements,Sit-down dining
+661,Never visited before,Less,Lack of sit down dining elements,Sit-down dining
+662,Weekly,More,High prices,Fast-food
+663,Daily,Less,Quality of food,Sit-down dining
+664,Weekly,Less,Lack of sit down dining elements,Fast-food
+665,Rarely,Less,High prices,Sit-down dining
+666,Never visited before,Less,Poor service,Sit-down dining
+667,Monthly,More,High prices,Fast-food
+668,Rarely,More,Lack of sit down dining elements,Fast-food
+669,Rarely,More,Quality of food,Sit-down dining
+670,Rarely,More,High prices,Sit-down dining
+671,Monthly,Less,Poor service,Sit-down dining
+672,Weekly,Less,Poor service,Fast-food
+673,Rarely,Less,High prices,Sit-down dining
+674,Monthly,More,Quality of food,Sit-down dining
+675,Weekly,Less,High prices,Fast-food
+676,Monthly,Less,Poor service,Fast-food
+677,Weekly,More,Lack of sit down dining elements,Fast-food
+678,Weekly,Less,High prices,Fast-food
+679,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+680,Never visited before,Less,Lack of sit down dining elements,Sit-down dining
+681,Daily,More,Lack of sit down dining elements,Fast-food
+682,Rarely,More,Poor service,Sit-down dining
+683,Monthly,Less,Poor service,Fast-food
+684,Daily,Less,Lack of sit down dining elements,Fast-food
+685,Daily,More,Lack of sit down dining elements,Sit-down dining
+686,Never visited before,More,High prices,Fast-food
+687,Rarely,Less,Lack of sit down dining elements,Fast-food
+688,Weekly,Less,Lack of sit down dining elements,Fast-food
+689,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+690,Monthly,Less,Lack of sit down dining elements,Sit-down dining
+691,Weekly,Less,Quality of food,Fast-food
+692,Daily,More,Lack of sit down dining elements,Fast-food
+693,Never visited before,Less,Lack of sit down dining elements,Fast-food
+694,Never visited before,Less,High prices,Fast-food
+695,Weekly,Less,High prices,Fast-food
+696,Monthly,Less,Quality of food,Sit-down dining
+697,Weekly,Less,Poor service,Sit-down dining
+698,Weekly,More,Poor service,Sit-down dining
+699,Never visited before,Less,Lack of sit down dining elements,Fast-food
+700,Rarely,Less,High prices,Sit-down dining
+701,Monthly,Less,Quality of food,Sit-down dining
+702,Never visited before,More,High prices,Fast-food
+703,Rarely,Less,High prices,Fast-food
+704,Monthly,Less,High prices,Fast-food
+705,Monthly,Less,Poor service,Sit-down dining
+706,Weekly,Less,Quality of food,Fast-food
+707,Daily,Less,Quality of food,Fast-food
+708,Rarely,Less,High prices,Fast-food
+709,Monthly,More,Lack of sit down dining elements,Fast-food
+710,Monthly,Less,Quality of food,Fast-food
+711,Weekly,Less,Lack of sit down dining elements,Fast-food
+712,Rarely,Less,Poor service,Sit-down dining
+713,Never visited before,More,High prices,Sit-down dining
+714,Weekly,Less,Poor service,Sit-down dining
+715,Monthly,More,High prices,Sit-down dining
+716,Rarely,Less,High prices,Sit-down dining
+717,Weekly,Less,Lack of sit down dining elements,Fast-food
+718,Monthly,Less,High prices,Sit-down dining
+719,Rarely,Less,Poor service,Fast-food
+720,Monthly,Less,Quality of food,Fast-food
+721,Monthly,Less,Lack of sit down dining elements,Sit-down dining
+722,Weekly,Less,High prices,Fast-food
+723,Monthly,Less,Lack of sit down dining elements,Fast-food
+724,Rarely,Less,Poor service,Sit-down dining
+725,Rarely,Less,High prices,Fast-food
+726,Monthly,Less,Lack of sit down dining elements,Fast-food
+727,Rarely,Less,High prices,Sit-down dining
+728,Daily,More,High prices,Sit-down dining
+729,Daily,Less,Quality of food,Fast-food
+730,Rarely,Less,Quality of food,Fast-food
+731,Rarely,Less,Poor service,Fast-food
+732,Never visited before,Less,Lack of sit down dining elements,Sit-down dining
+733,Monthly,Less,Quality of food,Sit-down dining
+734,Monthly,More,High prices,Sit-down dining
+735,Daily,Less,High prices,Sit-down dining
+736,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+737,Weekly,More,High prices,Fast-food
+738,Rarely,Less,Lack of sit down dining elements,Fast-food
+739,Rarely,Less,Lack of sit down dining elements,Fast-food
+740,Weekly,More,High prices,Fast-food
+741,Daily,Less,Lack of sit down dining elements,Sit-down dining
+742,Never visited before,Less,High prices,Fast-food
+743,Rarely,Less,High prices,Fast-food
+744,Weekly,More,High prices,Sit-down dining
+745,Rarely,Less,High prices,Fast-food
+746,Monthly,More,Quality of food,Sit-down dining
+747,Never visited before,Less,Lack of sit down dining elements,Sit-down dining
+748,Never visited before,More,Lack of sit down dining elements,Fast-food
+749,Never visited before,Less,Poor service,Sit-down dining
+750,Monthly,Less,High prices,Sit-down dining
+751,Weekly,Less,High prices,Fast-food
+752,Rarely,Less,High prices,Sit-down dining
+753,Weekly,Less,Lack of sit down dining elements,Fast-food
+754,Daily,Less,Quality of food,Sit-down dining
+755,Monthly,More,High prices,Fast-food
+756,Weekly,More,Quality of food,Sit-down dining
+757,Daily,More,Lack of sit down dining elements,Fast-food
+758,Rarely,Less,High prices,Fast-food
+759,Monthly,Less,Poor service,Sit-down dining
+760,Monthly,Less,Lack of sit down dining elements,Sit-down dining
+761,Rarely,More,High prices,Sit-down dining
+762,Weekly,Less,Poor service,Fast-food
+763,Monthly,Less,Quality of food,Fast-food
+764,Never visited before,Less,High prices,Fast-food
+765,Rarely,More,Lack of sit down dining elements,Fast-food
+766,Monthly,Less,Poor service,Sit-down dining
+767,Daily,Less,Quality of food,Fast-food
+768,Monthly,Less,Lack of sit down dining elements,Fast-food
+769,Monthly,Less,Poor service,Fast-food
+770,Rarely,Less,High prices,Sit-down dining
+771,Monthly,Less,High prices,Fast-food
+772,Rarely,Less,High prices,Sit-down dining
+773,Monthly,Less,Lack of sit down dining elements,Sit-down dining
+774,Daily,Less,Lack of sit down dining elements,Fast-food
+775,Monthly,Less,Quality of food,Fast-food
+776,Weekly,Less,High prices,Sit-down dining
+777,Monthly,Less,Lack of sit down dining elements,Sit-down dining
+778,Weekly,Less,Lack of sit down dining elements,Fast-food
+779,Rarely,More,High prices,Sit-down dining
+780,Never visited before,Less,High prices,Sit-down dining
+781,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+782,Never visited before,Less,Lack of sit down dining elements,Fast-food
+783,Monthly,Less,Quality of food,Sit-down dining
+784,Never visited before,More,Lack of sit down dining elements,Sit-down dining
+785,Never visited before,Less,Lack of sit down dining elements,Fast-food
+786,Monthly,Less,Lack of sit down dining elements,Sit-down dining
+787,Never visited before,Less,High prices,Fast-food
+788,Monthly,Less,Lack of sit down dining elements,Fast-food
+789,Rarely,Less,Lack of sit down dining elements,Fast-food
+790,Rarely,Less,Lack of sit down dining elements,Fast-food
+791,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+792,Rarely,More,Lack of sit down dining elements,Sit-down dining
+793,Daily,More,Lack of sit down dining elements,Sit-down dining
+794,Daily,Less,High prices,Fast-food
+795,Daily,Less,Quality of food,Fast-food
+796,Rarely,Less,Lack of sit down dining elements,Fast-food
+797,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+798,Rarely,Less,Lack of sit down dining elements,Fast-food
+799,Weekly,Less,High prices,Fast-food
+800,Monthly,More,High prices,Fast-food
+801,Never visited before,Less,Lack of sit down dining elements,Sit-down dining
+802,Weekly,More,Lack of sit down dining elements,Sit-down dining
+803,Rarely,More,Lack of sit down dining elements,Fast-food
+804,Daily,Less,Quality of food,Fast-food
+805,Monthly,More,Poor service,Fast-food
+806,Rarely,More,Quality of food,Fast-food
+807,Monthly,More,Quality of food,Fast-food
+808,Rarely,More,High prices,Sit-down dining
+809,Rarely,Less,High prices,Fast-food
+810,Daily,Less,Lack of sit down dining elements,Sit-down dining
+811,Weekly,Less,High prices,Fast-food
+812,Never visited before,Less,High prices,Sit-down dining
+813,Monthly,Less,High prices,Fast-food
+814,Rarely,Less,High prices,Sit-down dining
+815,Monthly,Less,Quality of food,Sit-down dining
+816,Rarely,Less,Lack of sit down dining elements,Fast-food
+817,Never visited before,More,High prices,Sit-down dining
+818,Rarely,Less,High prices,Sit-down dining
+819,Monthly,Less,High prices,Fast-food
+820,Daily,Less,Lack of sit down dining elements,Fast-food
+821,Weekly,More,High prices,Fast-food
+822,Never visited before,More,Lack of sit down dining elements,Fast-food
+823,Daily,Less,High prices,Sit-down dining
+824,Daily,More,Poor service,Fast-food
+825,Daily,Less,High prices,Fast-food
+826,Monthly,Less,Lack of sit down dining elements,Fast-food
+827,Weekly,Less,Lack of sit down dining elements,Sit-down dining
+828,Never visited before,More,High prices,Fast-food
+829,Weekly,Less,Lack of sit down dining elements,Sit-down dining
+830,Weekly,Less,Lack of sit down dining elements,Sit-down dining
+831,Monthly,Less,Lack of sit down dining elements,Sit-down dining
+832,Daily,More,High prices,Fast-food
+833,Never visited before,More,High prices,Sit-down dining
+834,Monthly,Less,Lack of sit down dining elements,Sit-down dining
+835,Monthly,More,Quality of food,Fast-food
+836,Rarely,More,High prices,Sit-down dining
+837,Weekly,Less,Poor service,Fast-food
+838,Never visited before,Less,High prices,Fast-food
+839,Daily,Less,High prices,Sit-down dining
+840,Daily,Less,High prices,Fast-food
+841,Monthly,Less,Quality of food,Sit-down dining
+842,Rarely,Less,High prices,Sit-down dining
+843,Daily,More,High prices,Fast-food
+844,Rarely,Less,Lack of sit down dining elements,Fast-food
+845,Weekly,Less,High prices,Fast-food
+846,Rarely,Less,Quality of food,Fast-food
+847,Weekly,Less,Poor service,Fast-food
+848,Rarely,Less,High prices,Fast-food
+849,Daily,Less,High prices,Sit-down dining
+850,Never visited before,Less,Lack of sit down dining elements,Fast-food
+851,Rarely,Less,High prices,Sit-down dining
+852,Rarely,Less,Poor service,Sit-down dining
+853,Rarely,Less,High prices,Sit-down dining
+854,Rarely,More,Quality of food,Sit-down dining
+855,Rarely,Less,High prices,Fast-food
+856,Rarely,More,Lack of sit down dining elements,Fast-food
+857,Never visited before,Less,High prices,Fast-food
+858,Monthly,Less,Lack of sit down dining elements,Fast-food
+859,Daily,Less,Poor service,Sit-down dining
+860,Monthly,Less,High prices,Sit-down dining
+861,Monthly,Less,Lack of sit down dining elements,Fast-food
+862,Monthly,Less,Lack of sit down dining elements,Fast-food
+863,Monthly,More,High prices,Fast-food
+864,Rarely,Less,Lack of sit down dining elements,Fast-food
+865,Never visited before,Less,Poor service,Sit-down dining
+866,Monthly,Less,Lack of sit down dining elements,Sit-down dining
+867,Weekly,Less,High prices,Sit-down dining
+868,Rarely,More,Lack of sit down dining elements,Sit-down dining
+869,Weekly,Less,High prices,Fast-food
+870,Daily,Less,High prices,Fast-food
+871,Weekly,More,Quality of food,Sit-down dining
+872,Daily,Less,Quality of food,Sit-down dining
+873,Rarely,Less,High prices,Fast-food
+874,Daily,More,High prices,Fast-food
+875,Rarely,Less,Poor service,Fast-food
+876,Daily,More,High prices,Sit-down dining
+877,Never visited before,More,Lack of sit down dining elements,Sit-down dining
+878,Rarely,More,Poor service,Fast-food
+879,Never visited before,Less,High prices,Sit-down dining
+880,Monthly,More,Lack of sit down dining elements,Sit-down dining
+881,Daily,Less,Quality of food,Fast-food
+882,Rarely,Less,High prices,Sit-down dining
+883,Monthly,Less,Lack of sit down dining elements,Fast-food
+884,Rarely,Less,High prices,Fast-food
+885,Rarely,Less,Quality of food,Sit-down dining
+886,Never visited before,Less,Lack of sit down dining elements,Sit-down dining
+887,Weekly,Less,Poor service,Sit-down dining
+888,Monthly,More,Lack of sit down dining elements,Sit-down dining
+889,Monthly,Less,High prices,Fast-food
+890,Weekly,Less,High prices,Sit-down dining
+891,Rarely,Less,Lack of sit down dining elements,Fast-food
+892,Monthly,Less,Quality of food,Sit-down dining
+893,Monthly,Less,High prices,Fast-food
+894,Rarely,Less,High prices,Fast-food
+895,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+896,Rarely,Less,High prices,Sit-down dining
+897,Rarely,Less,Quality of food,Fast-food
+898,Never visited before,Less,Quality of food,Fast-food
+899,Weekly,More,Lack of sit down dining elements,Sit-down dining
+900,Never visited before,Less,Lack of sit down dining elements,Fast-food
+901,Never visited before,Less,Poor service,Sit-down dining
+902,Never visited before,More,Poor service,Fast-food
+903,Never visited before,Less,High prices,Fast-food
+904,Rarely,Less,Quality of food,Fast-food
+905,Weekly,Less,Lack of sit down dining elements,Fast-food
+906,Never visited before,Less,Lack of sit down dining elements,Fast-food
+907,Monthly,Less,Lack of sit down dining elements,Sit-down dining
+908,Never visited before,More,Quality of food,Fast-food
+909,Rarely,Less,High prices,Fast-food
+910,Monthly,More,High prices,Sit-down dining
+911,Monthly,More,Lack of sit down dining elements,Sit-down dining
+912,Weekly,Less,High prices,Sit-down dining
+913,Never visited before,Less,High prices,Sit-down dining
+914,Weekly,More,Lack of sit down dining elements,Fast-food
+915,Daily,Less,High prices,Fast-food
+916,Daily,Less,Lack of sit down dining elements,Sit-down dining
+917,Rarely,More,Poor service,Fast-food
+918,Monthly,More,Lack of sit down dining elements,Sit-down dining
+919,Daily,Less,High prices,Sit-down dining
+920,Never visited before,Less,High prices,Sit-down dining
+921,Rarely,Less,Poor service,Sit-down dining
+922,Rarely,Less,Lack of sit down dining elements,Fast-food
+923,Monthly,Less,Lack of sit down dining elements,Sit-down dining
+924,Never visited before,Less,Lack of sit down dining elements,Fast-food
+925,Monthly,Less,Lack of sit down dining elements,Fast-food
+926,Monthly,More,Lack of sit down dining elements,Fast-food
+927,Monthly,Less,High prices,Sit-down dining
+928,Weekly,Less,Lack of sit down dining elements,Fast-food
+929,Daily,More,Lack of sit down dining elements,Fast-food
+930,Monthly,Less,High prices,Sit-down dining
+931,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+932,Monthly,Less,Poor service,Sit-down dining
+933,Never visited before,Less,Lack of sit down dining elements,Sit-down dining
+934,Monthly,Less,Lack of sit down dining elements,Fast-food
+935,Rarely,Less,High prices,Fast-food
+936,Daily,More,Quality of food,Fast-food
+937,Rarely,Less,Poor service,Sit-down dining
+938,Rarely,More,High prices,Sit-down dining
+939,Monthly,Less,Poor service,Sit-down dining
+940,Rarely,More,Poor service,Fast-food
+941,Never visited before,Less,Lack of sit down dining elements,Fast-food
+942,Never visited before,Less,Quality of food,Fast-food
+943,Weekly,Less,Lack of sit down dining elements,Sit-down dining
+944,Rarely,Less,Quality of food,Sit-down dining
+945,Rarely,Less,Quality of food,Fast-food
+946,Weekly,Less,Poor service,Fast-food
+947,Monthly,Less,Lack of sit down dining elements,Sit-down dining
+948,Monthly,Less,Lack of sit down dining elements,Fast-food
+949,Weekly,More,Lack of sit down dining elements,Sit-down dining
+950,Weekly,Less,Poor service,Fast-food
+951,Never visited before,More,Lack of sit down dining elements,Fast-food
+952,Monthly,Less,Lack of sit down dining elements,Fast-food
+953,Rarely,More,Lack of sit down dining elements,Fast-food
+954,Daily,Less,Poor service,Sit-down dining
+955,Never visited before,Less,Lack of sit down dining elements,Fast-food
+956,Weekly,Less,Lack of sit down dining elements,Fast-food
+957,Monthly,Less,Lack of sit down dining elements,Fast-food
+958,Daily,Less,High prices,Fast-food
+959,Rarely,Less,Poor service,Fast-food
+960,Never visited before,More,Lack of sit down dining elements,Fast-food
+961,Monthly,More,High prices,Fast-food
+962,Monthly,Less,Quality of food,Sit-down dining
+963,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+964,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+965,Never visited before,Less,Poor service,Fast-food
+966,Weekly,More,High prices,Sit-down dining
+967,Never visited before,Less,High prices,Fast-food
+968,Daily,Less,Poor service,Sit-down dining
+969,Monthly,Less,Lack of sit down dining elements,Sit-down dining
+970,Monthly,Less,High prices,Fast-food
+971,Daily,Less,Poor service,Sit-down dining
+972,Never visited before,More,High prices,Sit-down dining
+973,Rarely,Less,High prices,Fast-food
+974,Rarely,Less,Quality of food,Sit-down dining
+975,Never visited before,More,High prices,Fast-food
+976,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+977,Rarely,More,Poor service,Sit-down dining
+978,Monthly,Less,High prices,Fast-food
+979,Never visited before,Less,Lack of sit down dining elements,Fast-food
+980,Rarely,Less,Quality of food,Sit-down dining
+981,Weekly,Less,High prices,Sit-down dining
+982,Weekly,More,High prices,Sit-down dining
+983,Rarely,Less,High prices,Fast-food
+984,Weekly,More,High prices,Sit-down dining
+985,Weekly,Less,High prices,Fast-food
+986,Daily,Less,Poor service,Fast-food
+987,Weekly,Less,Quality of food,Fast-food
+988,Never visited before,Less,High prices,Sit-down dining
+989,Monthly,More,High prices,Fast-food
+990,Monthly,Less,Poor service,Fast-food
+991,Never visited before,Less,Quality of food,Sit-down dining
+992,Rarely,Less,High prices,Fast-food
+993,Daily,Less,High prices,Sit-down dining
+994,Daily,Less,High prices,Fast-food
+995,Weekly,Less,Lack of sit down dining elements,Sit-down dining
+996,Rarely,Less,High prices,Sit-down dining
+997,Monthly,Less,High prices,Fast-food
+998,Daily,More,Lack of sit down dining elements,Sit-down dining
+999,Daily,Less,Lack of sit down dining elements,Fast-food
+1000,Monthly,Less,Quality of food,Fast-food
+1001,Weekly,Less,Poor service,Sit-down dining
+1002,Rarely,Less,Lack of sit down dining elements,Fast-food
+1003,Weekly,Less,Poor service,Fast-food
+1004,Daily,Less,High prices,Fast-food
+1005,Monthly,More,Poor service,Sit-down dining
+1006,Daily,More,High prices,Sit-down dining
+1007,Rarely,More,Lack of sit down dining elements,Sit-down dining
+1008,Daily,Less,High prices,Fast-food
+1009,Monthly,Less,Lack of sit down dining elements,Sit-down dining
+1010,Monthly,More,High prices,Sit-down dining
+1011,Monthly,More,Lack of sit down dining elements,Sit-down dining
+1012,Rarely,Less,High prices,Fast-food
+1013,Never visited before,Less,Quality of food,Fast-food
+1014,Rarely,More,Poor service,Fast-food
+1015,Never visited before,Less,High prices,Fast-food
+1016,Weekly,Less,High prices,Sit-down dining
+1017,Never visited before,More,Quality of food,Fast-food
+1018,Daily,Less,High prices,Fast-food
+1019,Weekly,Less,Lack of sit down dining elements,Fast-food
+1020,Monthly,Less,Quality of food,Sit-down dining
+1021,Monthly,Less,Quality of food,Sit-down dining
+1022,Weekly,Less,Lack of sit down dining elements,Fast-food
+1023,Weekly,Less,Quality of food,Fast-food
+1024,Rarely,Less,High prices,Sit-down dining
+1025,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+1026,Never visited before,Less,Lack of sit down dining elements,Sit-down dining
+1027,Never visited before,Less,High prices,Fast-food
+1028,Rarely,Less,Lack of sit down dining elements,Fast-food
+1029,Monthly,Less,Lack of sit down dining elements,Fast-food
+1030,Daily,More,Quality of food,Sit-down dining
+1031,Rarely,Less,High prices,Fast-food
+1032,Weekly,Less,Quality of food,Sit-down dining
+1033,Monthly,Less,High prices,Fast-food
+1034,Rarely,Less,Poor service,Sit-down dining
+1035,Monthly,Less,High prices,Fast-food
+1036,Rarely,Less,Quality of food,Sit-down dining
+1037,Never visited before,Less,Poor service,Sit-down dining
+1038,Daily,Less,Quality of food,Sit-down dining
+1039,Daily,Less,Lack of sit down dining elements,Sit-down dining
+1040,Monthly,Less,Poor service,Fast-food
+1041,Daily,Less,Poor service,Fast-food
+1042,Daily,Less,High prices,Sit-down dining
+1043,Monthly,More,Quality of food,Sit-down dining
+1044,Weekly,Less,High prices,Sit-down dining
+1045,Rarely,Less,High prices,Sit-down dining
+1046,Monthly,Less,High prices,Fast-food
+1047,Rarely,Less,High prices,Sit-down dining
+1048,Monthly,Less,Lack of sit down dining elements,Sit-down dining
+1049,Rarely,Less,Poor service,Sit-down dining
+1050,Rarely,Less,High prices,Sit-down dining
+1051,Never visited before,More,High prices,Fast-food
+1052,Monthly,Less,High prices,Sit-down dining
+1053,Rarely,Less,High prices,Fast-food
+1054,Monthly,Less,Quality of food,Sit-down dining
+1055,Weekly,Less,Poor service,Fast-food
+1056,Monthly,Less,High prices,Fast-food
+1057,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+1058,Monthly,More,Poor service,Fast-food
+1059,Rarely,Less,High prices,Fast-food
+1060,Monthly,Less,Quality of food,Fast-food
+1061,Monthly,Less,Poor service,Sit-down dining
+1062,Never visited before,More,High prices,Fast-food
+1063,Daily,More,Lack of sit down dining elements,Sit-down dining
+1064,Monthly,Less,Lack of sit down dining elements,Sit-down dining
+1065,Daily,Less,Lack of sit down dining elements,Sit-down dining
+1066,Never visited before,Less,Poor service,Sit-down dining
+1067,Rarely,More,High prices,Fast-food
+1068,Weekly,Less,High prices,Sit-down dining
+1069,Daily,Less,Lack of sit down dining elements,Fast-food
+1070,Daily,Less,Lack of sit down dining elements,Fast-food
+1071,Rarely,More,Quality of food,Sit-down dining
+1072,Weekly,Less,Poor service,Fast-food
+1073,Never visited before,Less,Poor service,Sit-down dining
+1074,Rarely,Less,Quality of food,Fast-food
+1075,Rarely,Less,Poor service,Sit-down dining
+1076,Rarely,Less,High prices,Sit-down dining
+1077,Weekly,More,Lack of sit down dining elements,Sit-down dining
+1078,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+1079,Daily,Less,Quality of food,Sit-down dining
+1080,Daily,More,Lack of sit down dining elements,Fast-food
+1081,Rarely,Less,Poor service,Fast-food
+1082,Rarely,Less,High prices,Fast-food
+1083,Monthly,More,Poor service,Sit-down dining
+1084,Rarely,Less,High prices,Fast-food
+1085,Never visited before,More,Quality of food,Fast-food
+1086,Never visited before,Less,Lack of sit down dining elements,Sit-down dining
+1087,Monthly,Less,Poor service,Fast-food
+1088,Weekly,Less,Lack of sit down dining elements,Fast-food
+1089,Monthly,Less,Lack of sit down dining elements,Sit-down dining
+1090,Monthly,Less,Lack of sit down dining elements,Fast-food
+1091,Rarely,More,Lack of sit down dining elements,Fast-food
+1092,Never visited before,More,High prices,Sit-down dining
+1093,Weekly,Less,Lack of sit down dining elements,Fast-food
+1094,Never visited before,Less,High prices,Fast-food
+1095,Rarely,Less,High prices,Sit-down dining
+1096,Monthly,Less,Lack of sit down dining elements,Fast-food
+1097,Never visited before,More,Lack of sit down dining elements,Fast-food
+1098,Monthly,Less,High prices,Sit-down dining
+1099,Monthly,More,Lack of sit down dining elements,Sit-down dining
+1100,Monthly,Less,Quality of food,Sit-down dining
+1101,Monthly,Less,High prices,Sit-down dining
+1102,Daily,Less,Lack of sit down dining elements,Sit-down dining
+1103,Monthly,More,Lack of sit down dining elements,Fast-food
+1104,Never visited before,Less,High prices,Fast-food
+1105,Never visited before,More,High prices,Fast-food
+1106,Daily,Less,High prices,Fast-food
+1107,Monthly,Less,High prices,Fast-food
+1108,Monthly,Less,Quality of food,Fast-food
+1109,Monthly,Less,Quality of food,Fast-food
+1110,Never visited before,Less,Quality of food,Sit-down dining
+1111,Weekly,Less,Quality of food,Sit-down dining
+1112,Never visited before,More,Lack of sit down dining elements,Sit-down dining
+1113,Monthly,Less,Lack of sit down dining elements,Sit-down dining
+1114,Never visited before,Less,Poor service,Sit-down dining
+1115,Weekly,Less,Poor service,Fast-food
+1116,Daily,More,Lack of sit down dining elements,Sit-down dining
+1117,Rarely,Less,High prices,Sit-down dining
+1118,Monthly,Less,High prices,Fast-food
+1119,Daily,More,Lack of sit down dining elements,Fast-food
+1120,Rarely,Less,Quality of food,Sit-down dining
+1121,Rarely,More,High prices,Sit-down dining
+1122,Rarely,Less,High prices,Sit-down dining
+1123,Weekly,More,High prices,Sit-down dining
+1124,Weekly,Less,Lack of sit down dining elements,Sit-down dining
+1125,Monthly,More,Quality of food,Fast-food
+1126,Monthly,Less,Lack of sit down dining elements,Fast-food
+1127,Daily,Less,Quality of food,Fast-food
+1128,Daily,Less,Quality of food,Fast-food
+1129,Weekly,More,Poor service,Fast-food
+1130,Monthly,More,Lack of sit down dining elements,Sit-down dining
+1131,Rarely,Less,High prices,Sit-down dining
+1132,Daily,Less,Quality of food,Sit-down dining
+1133,Daily,Less,Lack of sit down dining elements,Fast-food
+1134,Rarely,More,High prices,Fast-food
+1135,Monthly,Less,Lack of sit down dining elements,Fast-food
+1136,Weekly,Less,High prices,Fast-food
+1137,Rarely,Less,High prices,Fast-food
+1138,Weekly,Less,Lack of sit down dining elements,Sit-down dining
+1139,Monthly,More,High prices,Sit-down dining
+1140,Rarely,More,High prices,Sit-down dining
+1141,Never visited before,Less,High prices,Sit-down dining
+1142,Daily,Less,Lack of sit down dining elements,Fast-food
+1143,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+1144,Monthly,More,Lack of sit down dining elements,Sit-down dining
+1145,Never visited before,Less,Poor service,Sit-down dining
+1146,Monthly,Less,Poor service,Sit-down dining
+1147,Daily,More,Lack of sit down dining elements,Sit-down dining
+1148,Weekly,Less,Lack of sit down dining elements,Sit-down dining
+1149,Monthly,More,Lack of sit down dining elements,Fast-food
+1150,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+1151,Monthly,More,Quality of food,Sit-down dining
+1152,Daily,Less,High prices,Fast-food
+1153,Daily,More,High prices,Sit-down dining
+1154,Weekly,Less,High prices,Fast-food
+1155,Daily,Less,Quality of food,Sit-down dining
+1156,Rarely,Less,Poor service,Fast-food
+1157,Rarely,More,High prices,Sit-down dining
+1158,Never visited before,Less,Lack of sit down dining elements,Sit-down dining
+1159,Weekly,Less,Lack of sit down dining elements,Fast-food
+1160,Daily,More,Lack of sit down dining elements,Fast-food
+1161,Rarely,Less,Quality of food,Fast-food
+1162,Weekly,More,Lack of sit down dining elements,Fast-food
+1163,Weekly,More,Lack of sit down dining elements,Sit-down dining
+1164,Rarely,Less,Quality of food,Fast-food
+1165,Rarely,Less,High prices,Fast-food
+1166,Never visited before,Less,High prices,Sit-down dining
+1167,Rarely,Less,High prices,Sit-down dining
+1168,Rarely,Less,High prices,Sit-down dining
+1169,Weekly,Less,Lack of sit down dining elements,Fast-food
+1170,Rarely,Less,Poor service,Fast-food
+1171,Monthly,Less,Lack of sit down dining elements,Fast-food
+1172,Daily,More,Lack of sit down dining elements,Sit-down dining
+1173,Monthly,More,Lack of sit down dining elements,Fast-food
+1174,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+1175,Rarely,Less,Poor service,Sit-down dining
+1176,Weekly,Less,Quality of food,Sit-down dining
+1177,Monthly,Less,Quality of food,Fast-food
+1178,Weekly,More,High prices,Sit-down dining
+1179,Daily,Less,Quality of food,Sit-down dining
+1180,Rarely,Less,High prices,Fast-food
+1181,Daily,Less,High prices,Fast-food
+1182,Monthly,Less,Lack of sit down dining elements,Fast-food
+1183,Daily,Less,Lack of sit down dining elements,Fast-food
+1184,Rarely,Less,Lack of sit down dining elements,Fast-food
+1185,Rarely,Less,High prices,Fast-food
+1186,Never visited before,Less,Quality of food,Sit-down dining
+1187,Rarely,Less,Quality of food,Sit-down dining
+1188,Monthly,More,High prices,Fast-food
+1189,Monthly,Less,High prices,Sit-down dining
+1190,Rarely,Less,Lack of sit down dining elements,Fast-food
+1191,Monthly,Less,Lack of sit down dining elements,Fast-food
+1192,Never visited before,Less,High prices,Sit-down dining
+1193,Weekly,Less,Poor service,Sit-down dining
+1194,Weekly,Less,Lack of sit down dining elements,Sit-down dining
+1195,Weekly,Less,High prices,Fast-food
+1196,Monthly,Less,Lack of sit down dining elements,Fast-food
+1197,Rarely,Less,High prices,Fast-food
+1198,Monthly,Less,Poor service,Fast-food
+1199,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+1200,Rarely,Less,Poor service,Fast-food
+1201,Never visited before,Less,Quality of food,Fast-food
+1202,Never visited before,Less,High prices,Fast-food
+1203,Monthly,Less,High prices,Fast-food
+1204,Never visited before,Less,Poor service,Fast-food
+1205,Rarely,More,Poor service,Fast-food
+1206,Rarely,Less,Quality of food,Sit-down dining
+1207,Daily,Less,Lack of sit down dining elements,Sit-down dining
+1208,Weekly,Less,Poor service,Fast-food
+1209,Rarely,Less,High prices,Fast-food
+1210,Weekly,Less,High prices,Fast-food
+1211,Rarely,More,Lack of sit down dining elements,Sit-down dining
+1212,Never visited before,Less,Lack of sit down dining elements,Fast-food
+1213,Monthly,Less,Quality of food,Fast-food
+1214,Rarely,Less,Poor service,Fast-food
+1215,Monthly,Less,Quality of food,Fast-food
+1216,Daily,Less,Poor service,Sit-down dining
+1217,Never visited before,More,Quality of food,Fast-food
+1218,Weekly,Less,Lack of sit down dining elements,Fast-food
+1219,Monthly,Less,High prices,Fast-food
+1220,Monthly,Less,High prices,Sit-down dining
+1221,Monthly,Less,High prices,Sit-down dining
+1222,Weekly,Less,Lack of sit down dining elements,Sit-down dining
+1223,Monthly,Less,Poor service,Fast-food
+1224,Daily,Less,Lack of sit down dining elements,Fast-food
+1225,Monthly,Less,High prices,Sit-down dining
+1226,Monthly,Less,Lack of sit down dining elements,Sit-down dining
+1227,Never visited before,Less,High prices,Fast-food
+1228,Daily,Less,High prices,Fast-food
+1229,Monthly,Less,Poor service,Sit-down dining
+1230,Rarely,Less,Lack of sit down dining elements,Fast-food
+1231,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+1232,Rarely,Less,Lack of sit down dining elements,Fast-food
+1233,Daily,Less,High prices,Sit-down dining
+1234,Never visited before,Less,Lack of sit down dining elements,Fast-food
+1235,Daily,Less,Lack of sit down dining elements,Fast-food
+1236,Monthly,Less,Lack of sit down dining elements,Sit-down dining
+1237,Rarely,Less,Quality of food,Fast-food
+1238,Monthly,Less,Quality of food,Fast-food
+1239,Daily,Less,Lack of sit down dining elements,Fast-food
+1240,Never visited before,Less,Lack of sit down dining elements,Fast-food
+1241,Rarely,More,Poor service,Fast-food
+1242,Monthly,Less,Poor service,Fast-food
+1243,Never visited before,Less,Poor service,Fast-food
+1244,Weekly,More,High prices,Fast-food
+1245,Rarely,Less,Poor service,Fast-food
+1246,Weekly,Less,High prices,Fast-food
+1247,Weekly,Less,Lack of sit down dining elements,Fast-food
+1248,Monthly,Less,High prices,Fast-food
+1249,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+1250,Rarely,More,Lack of sit down dining elements,Fast-food
+1251,Rarely,Less,Quality of food,Fast-food
+1252,Rarely,Less,High prices,Sit-down dining
+1253,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+1254,Monthly,Less,Lack of sit down dining elements,Fast-food
+1255,Weekly,Less,Quality of food,Sit-down dining
+1256,Monthly,Less,Lack of sit down dining elements,Fast-food
+1257,Monthly,Less,Quality of food,Fast-food
+1258,Daily,Less,Quality of food,Sit-down dining
+1259,Monthly,Less,High prices,Sit-down dining
+1260,Monthly,Less,Quality of food,Sit-down dining
+1261,Weekly,Less,Lack of sit down dining elements,Fast-food
+1262,Rarely,Less,Quality of food,Sit-down dining
+1263,Never visited before,Less,Quality of food,Fast-food
+1264,Monthly,Less,Poor service,Fast-food
+1265,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+1266,Weekly,Less,Poor service,Fast-food
+1267,Never visited before,More,Quality of food,Fast-food
+1268,Weekly,Less,Lack of sit down dining elements,Sit-down dining
+1269,Never visited before,More,Lack of sit down dining elements,Fast-food
+1270,Monthly,Less,High prices,Fast-food
+1271,Weekly,Less,Lack of sit down dining elements,Fast-food
+1272,Rarely,More,High prices,Fast-food
+1273,Rarely,Less,High prices,Fast-food
+1274,Never visited before,Less,High prices,Sit-down dining
+1275,Monthly,Less,Quality of food,Fast-food
+1276,Monthly,More,Lack of sit down dining elements,Sit-down dining
+1277,Weekly,Less,High prices,Fast-food
+1278,Monthly,More,Poor service,Fast-food
+1279,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+1280,Daily,Less,Quality of food,Sit-down dining
+1281,Rarely,Less,Poor service,Sit-down dining
+1282,Rarely,More,Lack of sit down dining elements,Sit-down dining
+1283,Never visited before,More,High prices,Sit-down dining
+1284,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+1285,Weekly,Less,High prices,Sit-down dining
+1286,Rarely,Less,Lack of sit down dining elements,Fast-food
+1287,Never visited before,Less,High prices,Fast-food
+1288,Never visited before,Less,Lack of sit down dining elements,Fast-food
+1289,Monthly,Less,High prices,Fast-food
+1290,Monthly,Less,High prices,Fast-food
+1291,Monthly,Less,Lack of sit down dining elements,Sit-down dining
+1292,Rarely,More,High prices,Fast-food
+1293,Rarely,Less,High prices,Fast-food
+1294,Monthly,More,Lack of sit down dining elements,Fast-food
+1295,Monthly,More,High prices,Sit-down dining
+1296,Never visited before,Less,Lack of sit down dining elements,Sit-down dining
+1297,Never visited before,More,Quality of food,Sit-down dining
+1298,Rarely,More,Lack of sit down dining elements,Sit-down dining
+1299,Monthly,More,Lack of sit down dining elements,Fast-food
+1300,Never visited before,Less,High prices,Sit-down dining
+1301,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+1302,Rarely,More,Lack of sit down dining elements,Fast-food
+1303,Weekly,More,Lack of sit down dining elements,Fast-food
+1304,Never visited before,Less,High prices,Fast-food
+1305,Daily,Less,Lack of sit down dining elements,Fast-food
+1306,Monthly,Less,High prices,Sit-down dining
+1307,Never visited before,More,Lack of sit down dining elements,Fast-food
+1308,Rarely,Less,Lack of sit down dining elements,Fast-food
+1309,Weekly,Less,Quality of food,Sit-down dining
+1310,Rarely,Less,High prices,Fast-food
+1311,Weekly,More,High prices,Sit-down dining
+1312,Daily,More,Quality of food,Fast-food
+1313,Monthly,Less,High prices,Fast-food
+1314,Monthly,Less,Quality of food,Sit-down dining
+1315,Daily,More,Quality of food,Sit-down dining
+1316,Monthly,More,Quality of food,Fast-food
+1317,Rarely,Less,High prices,Sit-down dining
+1318,Never visited before,Less,High prices,Fast-food
+1319,Monthly,More,Lack of sit down dining elements,Sit-down dining
+1320,Never visited before,Less,Lack of sit down dining elements,Fast-food
+1321,Monthly,More,High prices,Sit-down dining
+1322,Monthly,Less,Lack of sit down dining elements,Fast-food
+1323,Weekly,Less,Quality of food,Fast-food
+1324,Daily,Less,High prices,Sit-down dining
+1325,Monthly,Less,High prices,Sit-down dining
+1326,Rarely,Less,Quality of food,Sit-down dining
+1327,Rarely,More,High prices,Fast-food
+1328,Rarely,More,Quality of food,Sit-down dining
+1329,Monthly,More,Quality of food,Sit-down dining
+1330,Monthly,Less,High prices,Sit-down dining
+1331,Weekly,Less,High prices,Fast-food
+1332,Rarely,Less,Poor service,Sit-down dining
+1333,Never visited before,More,Poor service,Fast-food
+1334,Weekly,Less,Lack of sit down dining elements,Fast-food
+1335,Daily,More,Lack of sit down dining elements,Sit-down dining
+1336,Never visited before,Less,High prices,Sit-down dining
+1337,Monthly,More,Lack of sit down dining elements,Sit-down dining
+1338,Rarely,More,High prices,Sit-down dining
+1339,Weekly,Less,Poor service,Fast-food
+1340,Monthly,More,High prices,Fast-food
+1341,Rarely,Less,Quality of food,Sit-down dining
+1342,Rarely,Less,Quality of food,Sit-down dining
+1343,Rarely,Less,High prices,Sit-down dining
+1344,Rarely,More,Lack of sit down dining elements,Sit-down dining
+1345,Monthly,Less,High prices,Fast-food
+1346,Rarely,Less,Lack of sit down dining elements,Fast-food
+1347,Monthly,Less,Poor service,Sit-down dining
+1348,Weekly,More,Lack of sit down dining elements,Fast-food
+1349,Rarely,Less,Poor service,Fast-food
+1350,Monthly,Less,Lack of sit down dining elements,Sit-down dining
+1351,Rarely,Less,Poor service,Fast-food
+1352,Rarely,More,Quality of food,Fast-food
+1353,Monthly,More,Lack of sit down dining elements,Fast-food
+1354,Never visited before,More,Lack of sit down dining elements,Fast-food
+1355,Monthly,More,High prices,Fast-food
+1356,Monthly,Less,High prices,Fast-food
+1357,Weekly,Less,Quality of food,Sit-down dining
+1358,Weekly,More,Poor service,Fast-food
+1359,Rarely,Less,Quality of food,Sit-down dining
+1360,Rarely,More,Quality of food,Sit-down dining
+1361,Monthly,Less,Lack of sit down dining elements,Fast-food
+1362,Never visited before,Less,Lack of sit down dining elements,Fast-food
+1363,Daily,Less,High prices,Sit-down dining
+1364,Rarely,Less,Lack of sit down dining elements,Fast-food
+1365,Rarely,Less,High prices,Sit-down dining
+1366,Monthly,Less,High prices,Fast-food
+1367,Rarely,Less,Poor service,Sit-down dining
+1368,Weekly,Less,High prices,Fast-food
+1369,Monthly,Less,Lack of sit down dining elements,Sit-down dining
+1370,Monthly,More,Lack of sit down dining elements,Sit-down dining
+1371,Daily,Less,Poor service,Sit-down dining
+1372,Weekly,More,High prices,Sit-down dining
+1373,Weekly,Less,Quality of food,Fast-food
+1374,Monthly,Less,Quality of food,Sit-down dining
+1375,Daily,Less,Lack of sit down dining elements,Fast-food
+1376,Monthly,More,High prices,Fast-food
+1377,Never visited before,More,Lack of sit down dining elements,Fast-food
+1378,Daily,Less,Lack of sit down dining elements,Sit-down dining
+1379,Weekly,More,Lack of sit down dining elements,Sit-down dining
+1380,Monthly,Less,Lack of sit down dining elements,Fast-food
+1381,Rarely,More,Lack of sit down dining elements,Sit-down dining
+1382,Daily,Less,High prices,Sit-down dining
+1383,Daily,More,Poor service,Fast-food
+1384,Monthly,Less,Quality of food,Sit-down dining
+1385,Monthly,Less,Lack of sit down dining elements,Sit-down dining
+1386,Weekly,More,Poor service,Sit-down dining
+1387,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+1388,Daily,More,High prices,Sit-down dining
+1389,Never visited before,Less,Lack of sit down dining elements,Sit-down dining
+1390,Daily,Less,Poor service,Fast-food
+1391,Rarely,Less,High prices,Sit-down dining
+1392,Rarely,Less,High prices,Sit-down dining
+1393,Never visited before,Less,Quality of food,Sit-down dining
+1394,Weekly,Less,Lack of sit down dining elements,Sit-down dining
+1395,Monthly,Less,High prices,Fast-food
+1396,Rarely,Less,Poor service,Sit-down dining
+1397,Never visited before,More,High prices,Sit-down dining
+1398,Monthly,Less,Quality of food,Sit-down dining
+1399,Monthly,Less,Quality of food,Sit-down dining
+1400,Daily,Less,Lack of sit down dining elements,Fast-food
+1401,Weekly,Less,Quality of food,Sit-down dining
+1402,Weekly,Less,Lack of sit down dining elements,Fast-food
+1403,Rarely,Less,High prices,Fast-food
+1404,Rarely,Less,High prices,Fast-food
+1405,Weekly,Less,Quality of food,Fast-food
+1406,Rarely,Less,Quality of food,Fast-food
+1407,Monthly,Less,Lack of sit down dining elements,Sit-down dining
+1408,Rarely,Less,Lack of sit down dining elements,Fast-food
+1409,Never visited before,More,Lack of sit down dining elements,Fast-food
+1410,Rarely,Less,Poor service,Sit-down dining
+1411,Rarely,Less,Poor service,Fast-food
+1412,Never visited before,More,High prices,Sit-down dining
+1413,Never visited before,Less,Poor service,Fast-food
+1414,Never visited before,Less,Lack of sit down dining elements,Fast-food
+1415,Rarely,Less,Quality of food,Sit-down dining
+1416,Monthly,Less,Lack of sit down dining elements,Fast-food
+1417,Rarely,Less,Poor service,Sit-down dining
+1418,Monthly,Less,Poor service,Sit-down dining
+1419,Rarely,Less,High prices,Sit-down dining
+1420,Monthly,Less,Poor service,Sit-down dining
+1421,Rarely,Less,Quality of food,Sit-down dining
+1422,Rarely,Less,Lack of sit down dining elements,Fast-food
+1423,Rarely,More,Lack of sit down dining elements,Fast-food
+1424,Monthly,Less,Lack of sit down dining elements,Sit-down dining
+1425,Daily,Less,Lack of sit down dining elements,Fast-food
+1426,Daily,Less,Lack of sit down dining elements,Sit-down dining
+1427,Rarely,More,Quality of food,Sit-down dining
+1428,Weekly,More,Lack of sit down dining elements,Sit-down dining
+1429,Monthly,Less,High prices,Fast-food
+1430,Never visited before,Less,High prices,Sit-down dining
+1431,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+1432,Never visited before,More,High prices,Sit-down dining
+1433,Never visited before,Less,Lack of sit down dining elements,Sit-down dining
+1434,Rarely,Less,Quality of food,Fast-food
+1435,Weekly,Less,Lack of sit down dining elements,Sit-down dining
+1436,Monthly,Less,Lack of sit down dining elements,Fast-food
+1437,Rarely,More,High prices,Sit-down dining
+1438,Daily,More,Lack of sit down dining elements,Sit-down dining
+1439,Monthly,Less,High prices,Sit-down dining
+1440,Rarely,More,Lack of sit down dining elements,Sit-down dining
+1441,Monthly,Less,Lack of sit down dining elements,Fast-food
+1442,Weekly,Less,Quality of food,Sit-down dining
+1443,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+1444,Monthly,Less,Quality of food,Sit-down dining
+1445,Never visited before,Less,High prices,Fast-food
+1446,Weekly,Less,Poor service,Sit-down dining
+1447,Never visited before,Less,Lack of sit down dining elements,Fast-food
+1448,Monthly,More,Quality of food,Fast-food
+1449,Daily,Less,Lack of sit down dining elements,Sit-down dining
+1450,Monthly,Less,Lack of sit down dining elements,Sit-down dining
+1451,Monthly,Less,Lack of sit down dining elements,Sit-down dining
+1452,Rarely,Less,Quality of food,Sit-down dining
+1453,Daily,Less,High prices,Sit-down dining
+1454,Daily,More,High prices,Fast-food
+1455,Monthly,Less,Poor service,Fast-food
+1456,Rarely,Less,Poor service,Fast-food
+1457,Daily,Less,Lack of sit down dining elements,Sit-down dining
+1458,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+1459,Monthly,Less,High prices,Sit-down dining
+1460,Weekly,Less,High prices,Sit-down dining
+1461,Weekly,More,High prices,Sit-down dining
+1462,Never visited before,Less,Quality of food,Sit-down dining
+1463,Weekly,Less,Poor service,Fast-food
+1464,Never visited before,Less,Lack of sit down dining elements,Sit-down dining
+1465,Weekly,More,Poor service,Fast-food
+1466,Never visited before,Less,Lack of sit down dining elements,Fast-food
+1467,Weekly,Less,Poor service,Fast-food
+1468,Rarely,Less,High prices,Fast-food
+1469,Daily,Less,Quality of food,Sit-down dining
+1470,Weekly,More,Poor service,Sit-down dining
+1471,Never visited before,Less,Quality of food,Sit-down dining
+1472,Monthly,Less,Quality of food,Sit-down dining
+1473,Weekly,Less,Lack of sit down dining elements,Sit-down dining
+1474,Rarely,More,Quality of food,Fast-food
+1475,Never visited before,Less,Poor service,Sit-down dining
+1476,Never visited before,Less,High prices,Sit-down dining
+1477,Never visited before,Less,Poor service,Fast-food
+1478,Weekly,More,High prices,Sit-down dining
+1479,Daily,Less,High prices,Fast-food
+1480,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+1481,Daily,More,Lack of sit down dining elements,Fast-food
+1482,Daily,More,High prices,Sit-down dining
+1483,Rarely,Less,Poor service,Fast-food
+1484,Never visited before,Less,Poor service,Fast-food
+1485,Rarely,More,High prices,Fast-food
+1486,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+1487,Rarely,Less,Lack of sit down dining elements,Fast-food
+1488,Daily,More,Quality of food,Fast-food
+1489,Monthly,Less,Lack of sit down dining elements,Sit-down dining
+1490,Rarely,Less,High prices,Fast-food
+1491,Never visited before,Less,High prices,Sit-down dining
+1492,Monthly,Less,Quality of food,Fast-food
+1493,Rarely,Less,Quality of food,Fast-food
+1494,Daily,More,High prices,Sit-down dining
+1495,Never visited before,Less,Quality of food,Sit-down dining
+1496,Rarely,Less,Quality of food,Sit-down dining
+1497,Monthly,Less,Lack of sit down dining elements,Sit-down dining
+1498,Weekly,Less,Lack of sit down dining elements,Fast-food
+1499,Monthly,More,Lack of sit down dining elements,Sit-down dining
+1500,Monthly,Less,Lack of sit down dining elements,Fast-food
+1501,Monthly,More,High prices,Sit-down dining
+1502,Rarely,Less,High prices,Sit-down dining
+1503,Daily,More,Lack of sit down dining elements,Fast-food
+1504,Weekly,Less,High prices,Sit-down dining
+1505,Rarely,More,High prices,Fast-food
+1506,Rarely,Less,Quality of food,Sit-down dining
+1507,Daily,Less,High prices,Sit-down dining
+1508,Monthly,Less,High prices,Sit-down dining
+1509,Weekly,Less,Lack of sit down dining elements,Fast-food
+1510,Never visited before,Less,Lack of sit down dining elements,Fast-food
+1511,Rarely,More,Quality of food,Sit-down dining
+1512,Rarely,More,Quality of food,Sit-down dining
+1513,Never visited before,Less,Poor service,Fast-food
+1514,Monthly,Less,Quality of food,Fast-food
+1515,Never visited before,Less,Quality of food,Fast-food
+1516,Monthly,Less,Lack of sit down dining elements,Sit-down dining
+1517,Monthly,More,High prices,Sit-down dining
+1518,Daily,Less,Lack of sit down dining elements,Sit-down dining
+1519,Monthly,Less,Lack of sit down dining elements,Sit-down dining
+1520,Rarely,Less,Poor service,Fast-food
+1521,Monthly,Less,High prices,Sit-down dining
+1522,Daily,Less,Lack of sit down dining elements,Sit-down dining
+1523,Daily,Less,Lack of sit down dining elements,Fast-food
+1524,Monthly,Less,Quality of food,Sit-down dining
+1525,Daily,Less,Lack of sit down dining elements,Sit-down dining
+1526,Rarely,More,Poor service,Fast-food
+1527,Monthly,Less,Lack of sit down dining elements,Fast-food
+1528,Never visited before,Less,Poor service,Fast-food
+1529,Daily,Less,High prices,Sit-down dining
+1530,Rarely,Less,Quality of food,Fast-food
+1531,Daily,Less,Lack of sit down dining elements,Sit-down dining
+1532,Rarely,More,High prices,Sit-down dining
+1533,Weekly,Less,High prices,Sit-down dining
+1534,Daily,Less,Lack of sit down dining elements,Sit-down dining
+1535,Rarely,Less,High prices,Fast-food
+1536,Weekly,Less,Poor service,Sit-down dining
+1537,Monthly,More,Poor service,Fast-food
+1538,Rarely,More,Lack of sit down dining elements,Sit-down dining
+1539,Never visited before,Less,High prices,Fast-food
+1540,Daily,Less,Lack of sit down dining elements,Sit-down dining
+1541,Monthly,Less,Poor service,Fast-food
+1542,Monthly,More,Poor service,Sit-down dining
+1543,Rarely,More,Lack of sit down dining elements,Sit-down dining
+1544,Rarely,Less,Lack of sit down dining elements,Fast-food
+1545,Monthly,Less,Poor service,Sit-down dining
+1546,Weekly,Less,Quality of food,Sit-down dining
+1547,Weekly,More,Lack of sit down dining elements,Sit-down dining
+1548,Never visited before,More,High prices,Sit-down dining
+1549,Rarely,Less,High prices,Sit-down dining
+1550,Weekly,Less,Quality of food,Fast-food
+1551,Weekly,Less,High prices,Sit-down dining
+1552,Monthly,More,High prices,Sit-down dining
+1553,Rarely,Less,Poor service,Sit-down dining
+1554,Rarely,Less,High prices,Fast-food
+1555,Monthly,Less,High prices,Sit-down dining
+1556,Rarely,Less,Lack of sit down dining elements,Fast-food
+1557,Rarely,Less,Lack of sit down dining elements,Fast-food
+1558,Daily,Less,Lack of sit down dining elements,Sit-down dining
+1559,Monthly,More,Lack of sit down dining elements,Sit-down dining
+1560,Daily,Less,High prices,Fast-food
+1561,Rarely,More,High prices,Sit-down dining
+1562,Monthly,Less,High prices,Sit-down dining
+1563,Daily,Less,Poor service,Fast-food
+1564,Weekly,Less,Quality of food,Fast-food
+1565,Weekly,Less,Poor service,Fast-food
+1566,Weekly,Less,Poor service,Sit-down dining
+1567,Weekly,Less,Lack of sit down dining elements,Fast-food
+1568,Rarely,Less,High prices,Sit-down dining
+1569,Rarely,Less,Poor service,Fast-food
+1570,Never visited before,Less,Lack of sit down dining elements,Sit-down dining
+1571,Monthly,More,High prices,Fast-food
+1572,Weekly,Less,Lack of sit down dining elements,Fast-food
+1573,Monthly,Less,High prices,Sit-down dining
+1574,Monthly,Less,Poor service,Fast-food
+1575,Daily,More,Lack of sit down dining elements,Sit-down dining
+1576,Rarely,More,High prices,Fast-food
+1577,Weekly,Less,Lack of sit down dining elements,Sit-down dining
+1578,Rarely,Less,Lack of sit down dining elements,Fast-food
+1579,Weekly,Less,Lack of sit down dining elements,Fast-food
+1580,Monthly,Less,High prices,Fast-food
+1581,Rarely,Less,Poor service,Sit-down dining
+1582,Daily,More,High prices,Sit-down dining
+1583,Weekly,Less,High prices,Sit-down dining
+1584,Never visited before,Less,Lack of sit down dining elements,Sit-down dining
+1585,Monthly,Less,Poor service,Fast-food
+1586,Daily,Less,Quality of food,Sit-down dining
+1587,Never visited before,Less,Poor service,Sit-down dining
+1588,Daily,Less,Quality of food,Fast-food
+1589,Never visited before,Less,Quality of food,Sit-down dining
+1590,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+1591,Never visited before,Less,Poor service,Sit-down dining
+1592,Monthly,Less,Lack of sit down dining elements,Fast-food
+1593,Rarely,Less,Quality of food,Fast-food
+1594,Rarely,Less,Lack of sit down dining elements,Fast-food
+1595,Daily,More,Lack of sit down dining elements,Fast-food
+1596,Daily,More,Poor service,Fast-food
+1597,Rarely,Less,Poor service,Fast-food
+1598,Never visited before,Less,High prices,Sit-down dining
+1599,Rarely,Less,High prices,Sit-down dining
+1600,Daily,More,High prices,Sit-down dining
+1601,Monthly,More,High prices,Sit-down dining
+1602,Monthly,Less,Poor service,Sit-down dining
+1603,Monthly,Less,High prices,Fast-food
+1604,Never visited before,Less,Quality of food,Sit-down dining
+1605,Weekly,Less,High prices,Fast-food
+1606,Monthly,Less,Lack of sit down dining elements,Fast-food
+1607,Weekly,Less,Lack of sit down dining elements,Sit-down dining
+1608,Daily,More,Lack of sit down dining elements,Sit-down dining
+1609,Rarely,Less,Lack of sit down dining elements,Fast-food
+1610,Rarely,Less,Quality of food,Fast-food
+1611,Rarely,Less,High prices,Fast-food
+1612,Daily,Less,High prices,Fast-food
+1613,Never visited before,Less,Lack of sit down dining elements,Sit-down dining
+1614,Rarely,Less,High prices,Fast-food
+1615,Monthly,Less,Lack of sit down dining elements,Fast-food
+1616,Monthly,More,Poor service,Fast-food
+1617,Monthly,More,High prices,Sit-down dining
+1618,Monthly,More,Lack of sit down dining elements,Fast-food
+1619,Weekly,Less,Lack of sit down dining elements,Fast-food
+1620,Rarely,Less,High prices,Sit-down dining
+1621,Weekly,More,Lack of sit down dining elements,Sit-down dining
+1622,Weekly,Less,Quality of food,Fast-food
+1623,Rarely,Less,Poor service,Sit-down dining
+1624,Rarely,Less,High prices,Sit-down dining
+1625,Rarely,More,Poor service,Sit-down dining
+1626,Rarely,More,Poor service,Fast-food
+1627,Never visited before,More,Quality of food,Sit-down dining
+1628,Monthly,Less,Poor service,Sit-down dining
+1629,Daily,More,High prices,Sit-down dining
+1630,Rarely,Less,Poor service,Sit-down dining
+1631,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+1632,Monthly,Less,Poor service,Sit-down dining
+1633,Daily,More,Quality of food,Fast-food
+1634,Never visited before,Less,Quality of food,Fast-food
+1635,Rarely,Less,Lack of sit down dining elements,Fast-food
+1636,Rarely,More,Lack of sit down dining elements,Fast-food
+1637,Never visited before,Less,High prices,Sit-down dining
+1638,Daily,Less,High prices,Fast-food
+1639,Monthly,Less,Lack of sit down dining elements,Fast-food
+1640,Weekly,More,Lack of sit down dining elements,Sit-down dining
+1641,Monthly,Less,Lack of sit down dining elements,Sit-down dining
+1642,Never visited before,Less,Lack of sit down dining elements,Sit-down dining
+1643,Daily,Less,Quality of food,Sit-down dining
+1644,Daily,Less,Lack of sit down dining elements,Fast-food
+1645,Daily,Less,Poor service,Sit-down dining
+1646,Monthly,Less,Quality of food,Fast-food
+1647,Monthly,Less,Poor service,Fast-food
+1648,Monthly,More,Lack of sit down dining elements,Fast-food
+1649,Rarely,Less,High prices,Sit-down dining
+1650,Rarely,More,High prices,Fast-food
+1651,Weekly,More,Lack of sit down dining elements,Sit-down dining
+1652,Daily,More,Lack of sit down dining elements,Sit-down dining
+1653,Monthly,Less,Lack of sit down dining elements,Fast-food
+1654,Rarely,More,Lack of sit down dining elements,Fast-food
+1655,Weekly,Less,High prices,Fast-food
+1656,Weekly,Less,High prices,Sit-down dining
+1657,Monthly,Less,High prices,Fast-food
+1658,Monthly,More,High prices,Sit-down dining
+1659,Rarely,More,Lack of sit down dining elements,Fast-food
+1660,Monthly,Less,Lack of sit down dining elements,Fast-food
+1661,Monthly,More,High prices,Sit-down dining
+1662,Daily,Less,Quality of food,Sit-down dining
+1663,Weekly,More,Quality of food,Sit-down dining
+1664,Daily,Less,High prices,Fast-food
+1665,Weekly,Less,High prices,Fast-food
+1666,Weekly,Less,High prices,Sit-down dining
+1667,Weekly,More,Lack of sit down dining elements,Fast-food
+1668,Weekly,Less,High prices,Sit-down dining
+1669,Weekly,Less,Lack of sit down dining elements,Fast-food
+1670,Weekly,More,Lack of sit down dining elements,Sit-down dining
+1671,Daily,More,Lack of sit down dining elements,Fast-food
+1672,Rarely,Less,Lack of sit down dining elements,Fast-food
+1673,Rarely,Less,High prices,Sit-down dining
+1674,Monthly,Less,Lack of sit down dining elements,Fast-food
+1675,Never visited before,Less,High prices,Fast-food
+1676,Daily,Less,Lack of sit down dining elements,Sit-down dining
+1677,Rarely,Less,Poor service,Sit-down dining
+1678,Never visited before,Less,High prices,Sit-down dining
+1679,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+1680,Monthly,Less,Lack of sit down dining elements,Sit-down dining
+1681,Monthly,Less,High prices,Fast-food
+1682,Rarely,More,High prices,Fast-food
+1683,Rarely,More,Quality of food,Fast-food
+1684,Weekly,More,Lack of sit down dining elements,Fast-food
+1685,Daily,More,Lack of sit down dining elements,Sit-down dining
+1686,Monthly,Less,High prices,Fast-food
+1687,Daily,More,Lack of sit down dining elements,Fast-food
+1688,Monthly,Less,Poor service,Fast-food
+1689,Daily,Less,Lack of sit down dining elements,Fast-food
+1690,Monthly,Less,High prices,Sit-down dining
+1691,Weekly,Less,Lack of sit down dining elements,Fast-food
+1692,Monthly,Less,Quality of food,Sit-down dining
+1693,Daily,Less,Poor service,Sit-down dining
+1694,Rarely,Less,Quality of food,Sit-down dining
+1695,Never visited before,More,Poor service,Fast-food
+1696,Monthly,Less,Quality of food,Fast-food
+1697,Daily,Less,Lack of sit down dining elements,Fast-food
+1698,Daily,More,Quality of food,Sit-down dining
+1699,Monthly,Less,High prices,Fast-food
+1700,Rarely,Less,Lack of sit down dining elements,Fast-food
+1701,Monthly,Less,Lack of sit down dining elements,Fast-food
+1702,Weekly,More,Lack of sit down dining elements,Sit-down dining
+1703,Rarely,Less,Quality of food,Sit-down dining
+1704,Rarely,Less,Quality of food,Sit-down dining
+1705,Weekly,Less,Quality of food,Fast-food
+1706,Never visited before,Less,High prices,Fast-food
+1707,Rarely,Less,Poor service,Sit-down dining
+1708,Rarely,Less,High prices,Fast-food
+1709,Rarely,More,Poor service,Sit-down dining
+1710,Monthly,Less,Poor service,Sit-down dining
+1711,Monthly,Less,Poor service,Sit-down dining
+1712,Rarely,Less,Lack of sit down dining elements,Fast-food
+1713,Monthly,More,High prices,Sit-down dining
+1714,Monthly,Less,Lack of sit down dining elements,Sit-down dining
+1715,Rarely,Less,Quality of food,Sit-down dining
+1716,Never visited before,Less,Quality of food,Fast-food
+1717,Weekly,More,High prices,Fast-food
+1718,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+1719,Daily,Less,Quality of food,Sit-down dining
+1720,Monthly,Less,Quality of food,Fast-food
+1721,Rarely,More,Quality of food,Sit-down dining
+1722,Never visited before,Less,Lack of sit down dining elements,Sit-down dining
+1723,Never visited before,Less,Quality of food,Fast-food
+1724,Never visited before,Less,Quality of food,Sit-down dining
+1725,Never visited before,Less,Lack of sit down dining elements,Fast-food
+1726,Monthly,Less,High prices,Fast-food
+1727,Daily,More,Poor service,Sit-down dining
+1728,Never visited before,Less,High prices,Sit-down dining
+1729,Monthly,Less,Lack of sit down dining elements,Fast-food
+1730,Rarely,Less,Quality of food,Sit-down dining
+1731,Monthly,Less,High prices,Sit-down dining
+1732,Rarely,Less,Poor service,Sit-down dining
+1733,Weekly,Less,Poor service,Sit-down dining
+1734,Monthly,More,High prices,Sit-down dining
+1735,Rarely,Less,High prices,Fast-food
+1736,Monthly,More,Quality of food,Fast-food
+1737,Daily,More,Lack of sit down dining elements,Sit-down dining
+1738,Monthly,More,Lack of sit down dining elements,Sit-down dining
+1739,Never visited before,Less,High prices,Sit-down dining
+1740,Daily,Less,High prices,Sit-down dining
+1741,Monthly,Less,Poor service,Fast-food
+1742,Monthly,Less,Lack of sit down dining elements,Sit-down dining
+1743,Never visited before,Less,Lack of sit down dining elements,Sit-down dining
+1744,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+1745,Weekly,Less,Lack of sit down dining elements,Sit-down dining
+1746,Never visited before,Less,Lack of sit down dining elements,Sit-down dining
+1747,Daily,More,Quality of food,Fast-food
+1748,Daily,Less,Quality of food,Fast-food
+1749,Weekly,Less,High prices,Fast-food
+1750,Monthly,Less,Quality of food,Fast-food
+1751,Monthly,Less,High prices,Fast-food
+1752,Monthly,More,Lack of sit down dining elements,Fast-food
+1753,Monthly,Less,Quality of food,Fast-food
+1754,Weekly,Less,High prices,Sit-down dining
+1755,Monthly,Less,Quality of food,Sit-down dining
+1756,Monthly,Less,Poor service,Sit-down dining
+1757,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+1758,Monthly,More,Quality of food,Sit-down dining
+1759,Rarely,Less,High prices,Sit-down dining
+1760,Never visited before,Less,Poor service,Sit-down dining
+1761,Daily,Less,High prices,Sit-down dining
+1762,Rarely,More,High prices,Fast-food
+1763,Rarely,Less,Poor service,Sit-down dining
+1764,Rarely,Less,High prices,Fast-food
+1765,Weekly,Less,Quality of food,Sit-down dining
+1766,Monthly,Less,Quality of food,Sit-down dining
+1767,Monthly,Less,High prices,Sit-down dining
+1768,Rarely,Less,High prices,Fast-food
+1769,Rarely,Less,Lack of sit down dining elements,Fast-food
+1770,Never visited before,Less,Lack of sit down dining elements,Sit-down dining
+1771,Daily,More,High prices,Fast-food
+1772,Monthly,Less,High prices,Sit-down dining
+1773,Monthly,Less,Poor service,Fast-food
+1774,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+1775,Monthly,Less,High prices,Fast-food
+1776,Monthly,Less,Poor service,Sit-down dining
+1777,Rarely,Less,Lack of sit down dining elements,Fast-food
+1778,Weekly,Less,Lack of sit down dining elements,Sit-down dining
+1779,Rarely,Less,Quality of food,Fast-food
+1780,Monthly,Less,Quality of food,Sit-down dining
+1781,Rarely,Less,Poor service,Fast-food
+1782,Daily,Less,Lack of sit down dining elements,Sit-down dining
+1783,Daily,Less,Lack of sit down dining elements,Fast-food
+1784,Never visited before,Less,Lack of sit down dining elements,Sit-down dining
+1785,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+1786,Never visited before,Less,Poor service,Fast-food
+1787,Monthly,Less,High prices,Fast-food
+1788,Monthly,Less,Lack of sit down dining elements,Fast-food
+1789,Weekly,More,High prices,Sit-down dining
+1790,Rarely,Less,High prices,Sit-down dining
+1791,Rarely,Less,Quality of food,Fast-food
+1792,Rarely,Less,Lack of sit down dining elements,Fast-food
+1793,Monthly,Less,High prices,Sit-down dining
+1794,Weekly,Less,Quality of food,Fast-food
+1795,Never visited before,Less,Lack of sit down dining elements,Fast-food
+1796,Monthly,Less,Lack of sit down dining elements,Sit-down dining
+1797,Monthly,Less,High prices,Fast-food
+1798,Weekly,Less,Quality of food,Fast-food
+1799,Monthly,Less,Lack of sit down dining elements,Sit-down dining
+1800,Weekly,Less,High prices,Fast-food
+1801,Weekly,Less,High prices,Fast-food
+1802,Daily,Less,Quality of food,Sit-down dining
+1803,Never visited before,Less,Lack of sit down dining elements,Sit-down dining
+1804,Monthly,Less,High prices,Sit-down dining
+1805,Never visited before,Less,High prices,Sit-down dining
+1806,Daily,Less,Lack of sit down dining elements,Sit-down dining
+1807,Rarely,Less,Quality of food,Fast-food
+1808,Monthly,Less,Poor service,Sit-down dining
+1809,Weekly,Less,High prices,Sit-down dining
+1810,Monthly,Less,Lack of sit down dining elements,Fast-food
+1811,Weekly,Less,Poor service,Fast-food
+1812,Never visited before,Less,Lack of sit down dining elements,Fast-food
+1813,Rarely,Less,Lack of sit down dining elements,Fast-food
+1814,Daily,Less,Lack of sit down dining elements,Sit-down dining
+1815,Weekly,Less,Quality of food,Fast-food
+1816,Rarely,Less,High prices,Sit-down dining
+1817,Daily,More,Quality of food,Sit-down dining
+1818,Never visited before,Less,Lack of sit down dining elements,Sit-down dining
+1819,Daily,Less,Lack of sit down dining elements,Sit-down dining
+1820,Rarely,More,High prices,Fast-food
+1821,Monthly,More,Quality of food,Sit-down dining
+1822,Daily,Less,High prices,Sit-down dining
+1823,Weekly,Less,Poor service,Fast-food
+1824,Monthly,Less,High prices,Sit-down dining
+1825,Monthly,Less,High prices,Fast-food
+1826,Monthly,Less,High prices,Fast-food
+1827,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+1828,Rarely,Less,Lack of sit down dining elements,Fast-food
+1829,Weekly,More,Lack of sit down dining elements,Sit-down dining
+1830,Weekly,Less,High prices,Fast-food
+1831,Monthly,More,Quality of food,Sit-down dining
+1832,Monthly,Less,Poor service,Fast-food
+1833,Rarely,Less,High prices,Sit-down dining
+1834,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+1835,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+1836,Weekly,Less,Lack of sit down dining elements,Fast-food
+1837,Rarely,Less,Lack of sit down dining elements,Fast-food
+1838,Monthly,Less,Lack of sit down dining elements,Fast-food
+1839,Monthly,Less,High prices,Fast-food
+1840,Rarely,More,Poor service,Fast-food
+1841,Weekly,More,High prices,Fast-food
+1842,Rarely,Less,Poor service,Fast-food
+1843,Weekly,More,Lack of sit down dining elements,Fast-food
+1844,Rarely,More,Lack of sit down dining elements,Fast-food
+1845,Monthly,Less,Poor service,Fast-food
+1846,Never visited before,Less,High prices,Sit-down dining
+1847,Rarely,Less,High prices,Fast-food
+1848,Rarely,Less,Poor service,Fast-food
+1849,Monthly,More,Quality of food,Fast-food
+1850,Never visited before,More,High prices,Fast-food
+1851,Never visited before,Less,High prices,Fast-food
+1852,Monthly,More,High prices,Fast-food
+1853,Weekly,Less,High prices,Fast-food
+1854,Never visited before,More,Quality of food,Fast-food
+1855,Rarely,Less,Poor service,Sit-down dining
+1856,Daily,More,Lack of sit down dining elements,Sit-down dining
+1857,Monthly,More,High prices,Sit-down dining
+1858,Monthly,More,Lack of sit down dining elements,Sit-down dining
+1859,Monthly,More,Poor service,Fast-food
+1860,Never visited before,More,High prices,Sit-down dining
+1861,Monthly,Less,High prices,Fast-food
+1862,Rarely,More,Lack of sit down dining elements,Fast-food
+1863,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+1864,Daily,Less,High prices,Fast-food
+1865,Rarely,Less,High prices,Sit-down dining
+1866,Never visited before,Less,High prices,Fast-food
+1867,Monthly,Less,High prices,Sit-down dining
+1868,Monthly,Less,High prices,Fast-food
+1869,Weekly,More,Lack of sit down dining elements,Sit-down dining
+1870,Weekly,Less,Quality of food,Sit-down dining
+1871,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+1872,Monthly,Less,High prices,Fast-food
+1873,Monthly,Less,High prices,Sit-down dining
+1874,Rarely,Less,Quality of food,Sit-down dining
+1875,Monthly,More,Lack of sit down dining elements,Fast-food
+1876,Monthly,Less,Lack of sit down dining elements,Fast-food
+1877,Monthly,Less,Poor service,Fast-food
+1878,Daily,More,Poor service,Fast-food
+1879,Never visited before,Less,Lack of sit down dining elements,Fast-food
+1880,Daily,Less,High prices,Sit-down dining
+1881,Rarely,More,Lack of sit down dining elements,Fast-food
+1882,Monthly,Less,High prices,Fast-food
+1883,Never visited before,Less,Quality of food,Fast-food
+1884,Rarely,Less,Quality of food,Fast-food
+1885,Weekly,Less,High prices,Fast-food
+1886,Weekly,Less,Quality of food,Sit-down dining
+1887,Daily,More,High prices,Fast-food
+1888,Daily,Less,Lack of sit down dining elements,Fast-food
+1889,Weekly,Less,Poor service,Sit-down dining
+1890,Rarely,More,High prices,Sit-down dining
+1891,Rarely,Less,Poor service,Sit-down dining
+1892,Monthly,More,Lack of sit down dining elements,Sit-down dining
+1893,Monthly,More,Quality of food,Fast-food
+1894,Rarely,Less,Quality of food,Sit-down dining
+1895,Monthly,Less,High prices,Fast-food
+1896,Monthly,More,High prices,Sit-down dining
+1897,Weekly,Less,Lack of sit down dining elements,Fast-food
+1898,Rarely,More,Lack of sit down dining elements,Fast-food
+1899,Rarely,Less,High prices,Sit-down dining
+1900,Never visited before,Less,Poor service,Fast-food
+1901,Weekly,Less,High prices,Sit-down dining
+1902,Daily,Less,Lack of sit down dining elements,Sit-down dining
+1903,Monthly,Less,High prices,Sit-down dining
+1904,Weekly,Less,Poor service,Fast-food
+1905,Rarely,Less,Poor service,Sit-down dining
+1906,Monthly,Less,High prices,Sit-down dining
+1907,Never visited before,More,High prices,Sit-down dining
+1908,Rarely,Less,Quality of food,Fast-food
+1909,Rarely,Less,Quality of food,Fast-food
+1910,Monthly,Less,Poor service,Sit-down dining
+1911,Monthly,Less,High prices,Sit-down dining
+1912,Daily,Less,Lack of sit down dining elements,Fast-food
+1913,Never visited before,More,Lack of sit down dining elements,Fast-food
+1914,Never visited before,Less,Lack of sit down dining elements,Fast-food
+1915,Weekly,Less,Poor service,Sit-down dining
+1916,Rarely,More,High prices,Sit-down dining
+1917,Never visited before,Less,High prices,Fast-food
+1918,Rarely,Less,Poor service,Fast-food
+1919,Weekly,Less,Lack of sit down dining elements,Sit-down dining
+1920,Monthly,Less,Lack of sit down dining elements,Sit-down dining
+1921,Monthly,More,Quality of food,Sit-down dining
+1922,Monthly,Less,High prices,Sit-down dining
+1923,Rarely,Less,Quality of food,Fast-food
+1924,Monthly,Less,Poor service,Sit-down dining
+1925,Rarely,More,Lack of sit down dining elements,Fast-food
+1926,Monthly,Less,Quality of food,Fast-food
+1927,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+1928,Rarely,More,Quality of food,Sit-down dining
+1929,Weekly,Less,Lack of sit down dining elements,Sit-down dining
+1930,Never visited before,More,Quality of food,Fast-food
+1931,Never visited before,Less,High prices,Sit-down dining
+1932,Rarely,Less,High prices,Fast-food
+1933,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+1934,Weekly,Less,Lack of sit down dining elements,Fast-food
+1935,Daily,Less,Quality of food,Fast-food
+1936,Rarely,Less,Quality of food,Sit-down dining
+1937,Rarely,Less,Lack of sit down dining elements,Fast-food
+1938,Rarely,More,High prices,Sit-down dining
+1939,Rarely,Less,Lack of sit down dining elements,Fast-food
+1940,Rarely,Less,Quality of food,Fast-food
+1941,Weekly,Less,High prices,Fast-food
+1942,Never visited before,Less,Quality of food,Sit-down dining
+1943,Daily,Less,Poor service,Fast-food
+1944,Monthly,Less,Lack of sit down dining elements,Fast-food
+1945,Daily,Less,High prices,Sit-down dining
+1946,Monthly,More,Poor service,Sit-down dining
+1947,Never visited before,More,High prices,Sit-down dining
+1948,Monthly,Less,Lack of sit down dining elements,Sit-down dining
+1949,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+1950,Rarely,Less,Lack of sit down dining elements,Sit-down dining
+1951,Weekly,More,High prices,Fast-food
+1952,Daily,Less,Poor service,Sit-down dining
+1953,Monthly,Less,Lack of sit down dining elements,Sit-down dining
+1954,Weekly,Less,High prices,Fast-food
+1955,Rarely,Less,High prices,Sit-down dining
+1956,Rarely,Less,Lack of sit down dining elements,Fast-food
+1957,Rarely,More,High prices,Sit-down dining
+1958,Monthly,More,Quality of food,Fast-food
+1959,Monthly,Less,Quality of food,Fast-food
+1960,Monthly,Less,High prices,Sit-down dining
+1961,Monthly,More,Poor service,Sit-down dining
+1962,Rarely,Less,High prices,Fast-food
+1963,Rarely,Less,High prices,Sit-down dining
+1964,Monthly,More,High prices,Sit-down dining
+1965,Never visited before,More,High prices,Sit-down dining
+1966,Daily,Less,Poor service,Fast-food
+1967,Daily,More,Lack of sit down dining elements,Fast-food
+1968,Never visited before,Less,Lack of sit down dining elements,Fast-food
+1969,Rarely,Less,High prices,Fast-food
+1970,Daily,Less,Quality of food,Sit-down dining
+1971,Daily,Less,Lack of sit down dining elements,Fast-food
+1972,Monthly,Less,High prices,Fast-food
+1973,Daily,Less,Poor service,Sit-down dining
+1974,Rarely,Less,Lack of sit down dining elements,Fast-food
+1975,Rarely,Less,Poor service,Sit-down dining
+1976,Never visited before,More,Lack of sit down dining elements,Sit-down dining
+1977,Rarely,Less,High prices,Fast-food
+1978,Weekly,Less,High prices,Fast-food
+1979,Monthly,Less,Lack of sit down dining elements,Fast-food
+1980,Daily,Less,Lack of sit down dining elements,Fast-food
+1981,Rarely,Less,Lack of sit down dining elements,Fast-food
+1982,Never visited before,Less,Quality of food,Sit-down dining
+1983,Never visited before,Less,Quality of food,Sit-down dining
+1984,Monthly,Less,Poor service,Sit-down dining
+1985,Rarely,Less,High prices,Fast-food
+1986,Daily,Less,Lack of sit down dining elements,Sit-down dining
+1987,Monthly,Less,Poor service,Sit-down dining
+1988,Daily,More,High prices,Fast-food
+1989,Monthly,Less,Quality of food,Fast-food
+1990,Rarely,Less,Quality of food,Fast-food
+1991,Rarely,Less,Poor service,Sit-down dining
+1992,Daily,Less,Lack of sit down dining elements,Fast-food
+1993,Monthly,Less,Poor service,Fast-food
+1994,Weekly,Less,Lack of sit down dining elements,Sit-down dining
+1995,Weekly,Less,High prices,Sit-down dining
+1996,Never visited before,Less,High prices,Sit-down dining
+1997,Monthly,Less,Poor service,Fast-food
+1998,Monthly,Less,High prices,Fast-food
+1999,Rarely,More,Poor service,Sit-down dining
+2000,Never visited before,More,High prices,Fast-food
